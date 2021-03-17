@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2104">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[April 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		
+		<author><![CDATA[Alexa Wheeler]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Discover North America's Hidden Gems]]></title>
+		<teaser><![CDATA[
+			Stray away from the crowds and see the world in a new light.
+		]]></teaser>
+		<lead><![CDATA[
+			As we get back out into the world, one thing we are all looking for is comfort and safety. Now, more than ever, we understand the need to stray away from the crowds, travel off-the-beaten-path, and see our world in a new light. For many of us, this means reconnecting with nature and our surroundings. As we begin exploring once again, let&rsquo;s make an effort to travel more meaningfully and discover places that may be lesser known but deserve some appreciation, nonetheless.
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/style-01.jpg">
+				<figcaption>
+					<h4>Letchworth Sate Park, New York</h4>
+					<p>As stated by the New York State website, Letchworth State Park, renowned as the "Grand Canyon of the East," is one of the most scenically magnificent areas in the eastern U.S. The Genesee River roars through the gorge over three major waterfalls between cliffs &ndash; as high as 600 feet in some places &ndash; surrounded by lush forests. The park offers multiple activities from hiking, horseback riding, biking, snowmobiling, and cross-country skiing to performing arts programs, guided walks, white water rafting, kayaking, a pool for swimming, and hot air ballooning. But, perhaps the most stunning activity offered by the park is leaf-peeping in the fall when an endless array of yellows, reds and oranges blanket the canyon.</p>
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/style-02.jpg">
+				<figcaption>
+					<h4>Cavendish Cliffs, Prince Edward Island</h4>
+					<p>Prince Edward Island, the smallest of the eastern Canadian provinces with so many experiences to choose from, is the perfect destination for energetic explorers. Take an idyllic coastal road trip to explore the endless red rock cliffs, learn to tong and shuck oysters, own a standard-bred racehorse for an evening, uncover &ldquo;Seaweed Secrets,&rdquo; or make moonshine (legally). These are just a few of the available adventures that will give you an authentic taste of life on the island. When visiting the Cavendish Cliffs, make sure to make your way to the Cape Tyron Lighthouse which offers striking views. </p>
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/style-03.jpg">
+				<figcaption>
+					<h4>Colorado National Monument, Colorado</h4>
+					<p>Colorado National Monument preserves one of the grand landscapes of the American West. But this treasure is much more than a monument with gravity-defying boulders, tunnels carved of stone, towering monoliths, colorful formations, desert bighorn sheep, and soaring eagles. Those are just a few of the breathtaking landscapes and species that make up the spectacular 32 square mile park. The monument&rsquo;s quiet, wild country has an otherworldly feel &mdash; so much so, in fact, road-bikers nicknamed its Rim Rock Drive &ldquo;Tour of the Moon.&rdquo; </p>
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/style-04.jpg">
+				<figcaption>
+					<h4>Dinosaur Provincial Park, Alberta</h4>
+					<p>As stated by the Travel Alberta Tourism website, Alberta has lovely weather, but 75 million years ago, the Badlands were a subtropical paradise. We&rsquo;re talking palm trees, enormous ferns, and humidity. The only things stopping it from being a prime spot for sipping cocktails out of coconuts were the lack of humans and the enormous reptiles. Today, the provincial park is ripe for active exploration. Did you know more than 150 full dinosaur skeletons have been unearthed in Dinosaur Provincial Park and more than 50 species have been discovered? No wonder it&rsquo;s been designated a UNESCO World Heritage Site.</p>
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/style-05.jpg">
+				<figcaption>
+					<h4>Fly Geyser, Nevada</h4>
+					<p>The Fly Geyser is a perfect mix of human error and natural geothermal pressure created this rainbow-colored geological wonder. Located on the edge of Black Rock Desert, Fly Geyser was accidentally man-made about 100 years ago. While trying to drill a well in an area of the desert unsuitable for farming, geothermal boiling water was struck. Not suitable for irrigation water, the geyser was left alone and a 10- to 12-foot calcium carbonate cone formed. Wondering why you haven&rsquo;t seen endless Instagram photos of the geyser? Until the spring of 2018, Fly Geyser was on private land. But the Burning Man Project purchased the property and is now sharing the wonder with the world on private ranger-guided tours. </p>
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/style-06.jpg">
+				<figcaption>
+					<h4>Spirit Island, Alberta</h4>
+					<p>One of the most iconic landmarks in the Canadian Rocky Mountains, Spirit Island, nestled on the shores of beautiful Maligne Lake in Jasper National Park, is an image recognized around the world. But few know much about it. Spirit Island&rsquo;s access is extremely limited due to its geography. Paddling on your own can take about four hours one way, so the best option to see the island and its emerald-colored waters is by boat. Wondering if the photo opp is worth the visit? Apple thinks so &ndash; the company featured Spirit Island with the launch of their 2014 iPad to showcase the iPad&rsquo;s photography capabilities.</p>
+				</figcaption>
+			</figure>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/04/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Discover North America's Hidden Gems]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/style.jpg</article_src>
+		<article_caption><![CDATA[Discover North America's Hidden Gems]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/04/email/style.jpg</email_src>
+		
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>

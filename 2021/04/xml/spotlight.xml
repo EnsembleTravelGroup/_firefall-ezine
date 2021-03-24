@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2104">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[April 2021]]></pub_date> <!-- April = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		
+		<author><![CDATA[Silversea Cruises]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Adventure Begins at the Edge of the World]]></title>
+		<teaser><![CDATA[
+			Let us take you closer to the authentic beauty of the Arctic.
+		]]></teaser>
+		<lead><![CDATA[
+			The pursuit of the unknown reaches an epic level north of the Arctic Circle &mdash; all among the captivating cacophony of Svalbard&rsquo;s calving glaciers, walruses feasting on Atlantic oysters, and the Viking legends pervading the shores of Greenland. There is a reason why this is one of our most successful destinations. Venture beyond the unknown and explore the beating heart of the Arctic. Journey in supreme comfort to the very top of the world and discover so much more than just Polar Bears and midnight sun. Enthusiastic and expert Expedition Team Members keep you in the know while immersive local culture keeps you on the go. Inspirational, aspirational, and educational &ndash; champagne on ice will never seem the same again.
+		]]></lead>
+		<body><![CDATA[
+			<p>Silversea Expeditions take you to the edge of the world with all the comforts you love. Aided by a team of world-class experts, our ultra-luxury ships are modern gems of design, excelling in both fine living and exploration. Our small ship cruises offer comfort, unrivalled expedition knowledge, and some of the most spectacular landscape you&rsquo;re ever likely to see. That could mean scanning the horizon for Polar Bears, taking a Zodiac cruise to access an Inuit community, or learning how to take the perfect iceberg photo. With Silversea, you will be kayaking the glacial Arctic seas by day, and dining in superlative luxury by night.</p>
+			<p>Our extensive coverage of the region offers a variety of itineraries and lengths. From a full circumnavigation of Svalbard to crossing the Northwest Passage, there is very little of the region we don&rsquo;t cover. Your Arctic adventure starts here.</p>
+			<p>Set sail for the world&rsquo;s most all-inclusive voyage to the Arctic: complimentary in-country flights, transfers, pre-cruise hotel, shore experience plus much, much more. Silversea is the only real choice when it comes to Arctic luxury cruises.</p>
+			<p>So, let&rsquo;s get ready to explore the Arctic &ndash; we&rsquo;ve got the details taken care of. You only need to pack your bags.</p>
+			
+			<figure class="article-tile" style="margin: 60px 0;">
+				<h4>videoTitle</h4>
+				<p>videoDescription</p>
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/youtubeID?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</figure>
+			
+			<h4>Our Expedition Fleet</h4>
+			<p><strong>Silver Explorer:</strong> When you have been sailing the seven seas for 12 years, the unexpected is never a surprise. Complete from her recent refurbishment, Silver Explorer just got even better! Our first ever explorer ship is now the unrivalled queen of the oceans when it comes to pioneering adventures in superlative comfort. Her superior ice-class hull means that she is the perfect choice when it comes to sailing pristine destinations, while an international team of Expedition Members and dedicated crew will enrich your voyage, wherever you are.</p>
+			<p><strong>Silver Cloud:</strong> We have transformed our beautiful flagship Silver Cloud into the first luxury crossover ship in the world. For the first time ever, Silversea luxury meets Silversea expedition know-how giving you the opportunity to sail to remote destinations like never before. A reinforced ice-class hull means she can take you from polar region to polar region in supreme comfort. Four superb restaurants, 16 Zodiacs, up to 22 Expedition Team Members on every voyage and a crew of almost 1:1 mean Silver Cloud really is the tip of the iceberg when it comes to expeditions cruising in comfort.</p>
+			<p><strong>Silver Wind: </strong>After the incredible success of Silver Cloud as an Expedition vessel, Silver Wind, her sister ship will receive a complete refurbishment in the summer of 2021, benefitting from a strengthened to ice-class hull that will make her one of the most adaptable ships in our fleet. Still timelessly elegant, still luxuriously relaxed, her improved cruising versatility means she is able to whizz from the Polar Regions at the ends of the earth to the iconic ports of the Mediterranean with fluid ease. Get ready for a wealth of diverse destination experiences, in traditional Silversea comfort.</p>
+			
+			<br/>
+			
+			<p style="font-size: 80%;">Main image credit: <em>Silversea guest taking a photo of the Silver Cloud and Aappilattoq_ Voyage 1919 Reykjavik to Kangerlussaq on board Silver Cloud 2019 by Pablo Bianco</em></p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/04/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Adventure Begins at the Edge of the World]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Adventure Begins at the Edge of the World]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/04/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="ocean-cruising"><![CDATA[ocean-cruising]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2104" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[April 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Isabelle Labrosse]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[6 Stunning Islands You've Probably Never Heard Of]]></title>
+		<teaser><![CDATA[
+			Explore remote yet idyllic islands around the world.
+		]]></teaser>
+		<lead><![CDATA[
+			After a year without travel, we&rsquo;re all dreaming of places near and far that will allow us to fulfill our wanderlust while also ensuring the safety of our travel bubble. In our pursuit of privacy, the world&rsquo;s great outdoors and natural wonders await. Our planet is full of remote, yet idyllic, islands where you can have all the distance you need while rediscovering the joy of exploring the world. Here are six remote islands and archipelagoes you&rsquo;ve probably never heard of but that fuel our travel dreams.
+		]]></lead>
+		<body><![CDATA[]]></body>
+
+		<gallery>
+			<img>
+				<title><![CDATA[Shetland Islands, Scotland]]></title>
+				<content><![CDATA[This archipelago, located off the coast of mainland Scotland, comprises about 100 islands, only 15 of which are inhabited. The Shetland Islands are part of a UNESCO Global Geopark aiming to protect the land&rsquo;s varied geo-diversity as well as its links to cultural heritage and to make it accessible in a sustainable way. So, whether you feel like mingling with the 7,000 locals in the capital, Lerwick &ndash; made famous by BBC&rsquo;s <em>Shetland</em> TV series &ndash; finding Shetland ponies roaming wild, or diving into history at one of Europe&rsquo;s richest Viking heritage sites in Unst, the northernmost of the inhabited British Isles, these &ldquo;Islands of Opportunity&rdquo; offer a host of possibilities.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Gull Island, United States]]></title>
+				<content><![CDATA[If you&rsquo;ve never heard of this island, it&rsquo;s because the most exciting aspect of it is not on it&hellip; but rather around it! This rocky outcropping about a mile off the southwestern coast of California, part of the Channel Islands archipelago, is the island to visit if you&rsquo;re looking for a truly unique dive closer to home. Part of a state marine reserve protecting delicate marine life and habitats, Gull Island is one of the few places in California where divers can see well-preserved purple hydrocoral at shallow depths, as well as schools of fish, a kelp forest, and sea lions.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Bequia, St. Vincent and the Grenadines]]></title>
+				<content><![CDATA[Blissful beaches, swaying palm trees and warm waters &ndash; Bequia (pronounced &ldquo;<em>Beck-way</em>&rdquo;) has it all and even more. Yet, its greatest advantage may be that it falls off the touristy path. This anonymity offers travelers savvy enough to know its existence moments of perfect solitude in a laid-back and welcoming environment. While the island &ndash; the second biggest of the 32 that make up the Grenadines &ndash; has no sprawling resorts or traffic lights and only one main town, it doesn&rsquo;t lack in things to do. Besides the obvious afternoon lounging on the sand, you can take a stroll on the coast-hugging boardwalk, go yachting in Admiralty Bay, or enjoy steel band music at a local bar.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Magdalen Islands, Canada]]></title>
+				<content><![CDATA[Located a five-hour ferry ride away from the closest land of Prince Edward Island, <em>Les &Icirc;les-de-la-Madeleine</em> (Magdalen Islands) is an archipelago of a dozen islands, some of which are linked by sand dunes. The seven inhabited islands are joined by a 55-mile road, making it easy to explore the region by rental car. Along the way, you&rsquo;ll drive past rolling green hills, colorful houses and steep red cliffs that glow at sunset. Be sure to get acquainted with local <em>Madelinots</em> (residents of the islands), known for their warm hospitality, always eager to teach visitors about their origins and enliven evenings with music and lyrics.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[San Blas Islands, Panama]]></title>
+				<content><![CDATA[Unknown to many, the San Blas Islands are a group of over 375 picturesque islands &ndash; most of them uninhabited &ndash; in the Caribbean Sea between mainland Panama and Colombia. San Blas is a little piece of paradise, off the beaten track of mass tourism and fully controlled by the native Kuna people. From Panama City, it&rsquo;s a two-hour drive to the coast, where sailors can charter a catamaran or embark on a boat shuttle to the islands. Expect untouched nature, excellent snorkeling, and ample space to swim with barely another soul around. Adventure lovers will enjoy spending the night <em>&agrave; la </em>Robinson Crusoe in their own eco-friendly hideaway.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Lofoten Islands, Norway]]></title>
+				<content><![CDATA[Did you ever dream of surfing above the Arctic Circle? If so, head to the Lofoten Islands! Unstad Beach is said to be among the best surfing spots in Europe, while not one for the faint of heart. But, beyond that, the Lofoten archipelago &ndash; 95 miles north of the Arctic Circle in the Norwegian Sea &ndash; is a place of unparalleled beauty, with craggy mountains, deep fjords, colorful fishing villages, and waters as clear and as blue as the Mediterranean &ndash; only colder. The water is more than a simple backdrop here; it&rsquo;s the lifeblood of the community. Pyramid-shaped racks used for drying cod are a common sight throughout the fishing season, and one town&rsquo;s unofficial motto reads &ldquo;In Cod We Trust.&rdquo; When visiting, travelers can stay in a fisherman&rsquo;s hut, go kayaking or hiking to immerse themselves in the scenery, and experience the midnight sun.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[6 Stunning Islands You've Probably Never Heard Of]]></hero_caption>
+		<hero_credit><![CDATA[Isabelle Labrosse]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/04/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[6 Stunning Islands You've Probably Never Heard Of]]></article_caption>
+		<article_credit><![CDATA[Isabelle Labrosse]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/04/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="central-america"><![CDATA[central-america]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>

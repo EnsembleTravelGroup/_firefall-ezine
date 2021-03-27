@@ -7,7 +7,7 @@
 		<dir_month><![CDATA[04]]></dir_month>
 		<id_article><![CDATA[01]]></id_article>
 		
-		<author><![CDATA[Regent Seven Seas Cruises®]]></author>
+		<author><![CDATA[Regent Seven Seas Cruises<sup>®</sup>]]></author>
 		<id_supplier><![CDATA[reg]]></id_supplier>
 		
 		<title><![CDATA[UNRIVALED SPACE AT SEA™]]></title>
@@ -18,7 +18,7 @@
 		<body><![CDATA[
 			<figure class="article-tile" style="margin: 60px 0;">
 				<h4>Unrivaled Space at Sea™</h4>
-				<p>In luxury cruising, lavish, personal space is essential to enjoying An Unrivaled Experience®. With Regent Seven Seas Cruises®, that has always been a core tenet of the design behind The World’s Most Luxurious Fleet™: perfectly sized ships created to give safe passage to the wonders of the world with every luxury included. See the difference that comes from having Unrivaled Space at Sea™.</p>
+				<p>In luxury cruising, lavish, personal space is essential to enjoying An Unrivaled Experience<sup>®</sup>. With Regent Seven Seas Cruises<sup>®</sup>, that has always been a core tenet of the design behind The World’s Most Luxurious Fleet™: perfectly sized ships created to give safe passage to the wonders of the world with every luxury included. See the difference that comes from having Unrivaled Space at Sea™.</p>
 				<iframe width="100%" height="500" src="https://www.youtube.com/embed/irx8sLBX0Sc?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</figure>
 			
@@ -26,59 +26,67 @@
 			
 			<figure class="article-tile" style="margin: 40px 0;">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/advertorial-01-01.jpg">
+				<figcaption>
+					<h4><strong>A SPACE FOR EVERY EXPERIENCE, PERSONAL SPACE ON BOARD</strong></h4>
+					<p>You always have an abundance of space on board each of their perfectly sized, luxury ships. Sprawling suites, multiple dining options and spacious social areas means there are no crowds and no waiting.</p>
+					<ul>
+					<li><strong>A MAXIMUM OF 490 TO 750 GUESTS</strong>, from the beloved Seven Seas Navigator&reg; to the new Seven Seas Splendor&trade;, delivers an enviable staff-to-guest ratio average of 1:1.5, providing the pinnacle of personalized service</li>
+					<li><strong>EXPANSIVE SOCIAL AREAS AND WORLD-CLASS FACILITIES</strong> you might only expect to find on much larger ships MULTIPLE, FREE SPECIALTY DINING VENUES so there is never a crowd or a queue</li>
+					<li><strong>DYNAMIC EVENING ENTERTAINMENT</strong> with spacious seating and cabaret style tables for two</li>
+					<li><strong>LARGE POOL DECK AREA</strong> where you can always find a private space or sun lounger</li>
+					<li><strong>SIZEABLE STATE-OF-THE-ART FITNESS CENTERS</strong> with optional one-on-one fitness instruction</li>
+					<li><strong>PERSONALIZED, ONBOARD ENRICHMENT</strong> classes and activities</li>
+					<li><strong>TRULY CAREFREE TRAVEL</strong> where every detail is taken care of and every luxury is included, from FREE business class air to FREE drinks to FREE shore excursions and more</li>
+					</ul>
+				</figcaption>
 			</figure>
-			<h4><strong>A SPACE FOR EVERY EXPERIENCE, PERSONAL SPACE ON BOARD</strong></h4>
-			<p>You always have an abundance of space on board each of their perfectly sized, luxury ships. Sprawling suites, multiple dining options and spacious social areas means there are no crowds and no waiting.</p>
-			<ul>
-			<li><strong>A MAXIMUM OF 490 TO 750 GUESTS</strong>, from the beloved Seven Seas Navigator&reg; to the new Seven Seas Splendor&trade;, delivers an enviable staff-to-guest ratio average of 1:1.5, providing the pinnacle of personalized service</li>
-			<li><strong>EXPANSIVE SOCIAL AREAS AND WORLD-CLASS FACILITIES</strong> you might only expect to find on much larger ships MULTIPLE, FREE SPECIALTY DINING VENUES so there is never a crowd or a queue</li>
-			<li><strong>DYNAMIC EVENING ENTERTAINMENT</strong> with spacious seating and cabaret style tables for two</li>
-			<li><strong>LARGE POOL DECK AREA</strong> where you can always find a private space or sun lounger</li>
-			<li><strong>SIZEABLE STATE-OF-THE-ART FITNESS CENTERS</strong> with optional one-on-one fitness instruction</li>
-			<li><strong>PERSONALIZED, ONBOARD ENRICHMENT</strong> classes and activities</li>
-			<li><strong>TRULY CAREFREE TRAVEL</strong> where every detail is taken care of and every luxury is included, from FREE business class air to FREE drinks to FREE shore excursions and more</li>
-			</ul>
 			
 			<figure class="article-tile" style="margin: 40px 0;">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/advertorial-01-02.jpg">
+				<figcaption>
+					<h4><strong>A HOME AWAY FROM HOME</strong></h4>
+					<p>There is nothing better than retiring to the comfort and relaxation of your own suite &mdash; the ultimate escape &mdash; a place just for you as you explore the world with confidence and sophistication.</p>
+					<ul>
+					<li><strong>ALL-SUITE FLEET</strong> featuring spacious and luxurious accommodations with large, private balconies across 98% of our suites</li>
+					<li><strong>AMONG THE LARGEST BALCONIES AT SEA</strong></li>
+					<li><strong>A DEDICATED ATTENDANT</strong> for every suite</li>
+					<li><strong>BUTLER SERVICE AT THE PENTHOUSE LEVEL</strong> and above</li>
+					<li><strong>PRIVATE IN-SUITE MINIBAR</strong> customized to taste and restocked daily</li>
+					<li><strong>SPACIOUS MARBLE &amp; STONE DETAILED BATHROOM</strong> with prime amenities</li>
+					<li><strong>SEPARATE SITTING AREA</strong> with room to enjoy the ever-changing vistas</li>
+					<li><strong>GENEROUS WALK-IN CLOSETS</strong> with ample storage space</li>
+					</ul>
+				</figcaption>
 			</figure>
-			<h4><strong>A HOME AWAY FROM HOME</strong></h4>
-			<p>There is nothing better than retiring to the comfort and relaxation of your own suite &mdash; the ultimate escape &mdash; a place just for you as you explore the world with confidence and sophistication.</p>
-			<ul>
-			<li><strong>ALL-SUITE FLEET</strong>&nbsp;featuring spacious and luxurious accommodations with large, private balconies across 98% of our suites</li>
-			<li><strong>AMONG THE LARGEST BALCONIES AT SEA</strong></li>
-			<li><strong>A DEDICATED ATTENDANT</strong>&nbsp;for every suite</li>
-			<li><strong>BUTLER SERVICE AT THE PENTHOUSE LEVEL</strong>&nbsp;and above</li>
-			<li><strong>PRIVATE IN-SUITE MINIBAR</strong>&nbsp;customized to taste and restocked daily</li>
-			<li><strong>SPACIOUS MARBLE &amp; STONE DETAILED BATHROOM</strong>&nbsp;with prime amenities</li>
-			<li><strong>SEPARATE SITTING AREA</strong>&nbsp;with room to enjoy the ever-changing vistas</li>
-			<li><strong>GENEROUS WALK-IN CLOSETS</strong>&nbsp;with ample storage space</li>
-			</ul>
 			
 			<figure class="article-tile" style="margin: 40px 0;">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/advertorial-01-03.jpg">
+				<figcaption>
+					<h4><strong>SPECIALIZED DINING EXPERIENCES</strong></h4>
+					<p>Savor the world&rsquo;s finest cuisines and expertly paired wines in sophisticated venues where ever-changing ocean views invite you to linger just a little bit longer.</p>
+					<ul>
+					<li><strong>OPEN SEATING</strong> so that guests are free to dine whenever and with whomever they wish</li>
+					<li><strong>SPECIALTY RESTAURANTS</strong> with spaciously distanced tables for two</li>
+					<li><strong>UP TO SEVEN DINING VENUES</strong> including casual indoor and outdoor dining options at La Veranda and the Pool Grill</li>
+					<li><strong>IN-SUITE DINING</strong> that retains the restaurant experience by serving guests course-by-course with a mouthwatering variety of culinary options</li>
+					</ul>
+				</figcaption>
 			</figure>
-			<h4><strong>SPECIALIZED DINING EXPERIENCES</strong></h4>
-			<p>Savor the world&rsquo;s finest cuisines and expertly paired wines in sophisticated venues where ever-changing ocean views invite you to linger just a little bit longer.</p>
-			<ul>
-			<li><strong>OPEN SEATING</strong>&nbsp;so that guests are free to dine whenever and with whomever they wish</li>
-			<li><strong>SPECIALTY RESTAURANTS</strong>&nbsp;with spaciously distanced tables for two</li>
-			<li><strong>UP TO SEVEN DINING VENUES</strong>&nbsp;including casual indoor and outdoor dining options at La Veranda and the Pool Grill</li>
-			<li><strong>IN-SUITE DINING</strong>&nbsp;that retains the restaurant experience by serving guests course-by-course with a mouthwatering variety of culinary options</li>
-			</ul>
 			
 			<figure class="article-tile" style="margin: 40px 0;">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/04/article/advertorial-01-04.jpg">
+				<figcaption>
+					<h4><strong>SMALL GROUPS &amp; PRIVATE SHORESIDE OPPORTUNITIES</strong></h4>
+					<p>From music, history and the culinary arts to wildlife, unique, local adventures and beyond, there are amazing memories to be created in every destination, whatever your interest.</p>
+					<ul>
+					<li><strong>SHORE EXCURSIONS IN SMALL GROUPS</strong> exclusively for our guests</li>
+					<li><strong>MULTIPLE SHORE EXCURSIONS IN EACH PORT OF CALL</strong>, providing a myriad of options without overcrowding</li>
+					<li><strong>BESPOKE, SHORESIDE EXPERIENCES</strong> upon request, away from the tourist crowds with private viewings and exclusive access in fascinating locales</li>
+					<li><strong>A PRIVATE GUIDE AND DRIVER</strong> for a more personalized level of engagement in each destination</li>
+					</ul>
+					<p>Discover how &mdash; with our unrivaled space at sea &mdash; Regent Seven Seas Cruises&reg; will exceed your loftiest expectations of comfort and personalized service for a truly unforgettable experience aboard The World&rsquo;s Most Luxurious Fleet&trade;.</p>
+				</figcaption>
 			</figure>
-			<h4><strong>SMALL GROUPS &amp; PRIVATE SHORESIDE OPPORTUNITIES</strong></h4>
-			<p>From music, history and the culinary arts to wildlife, unique, local adventures and beyond, there are amazing memories to be created in every destination, whatever your interest.</p>
-			<ul>
-			<li><strong>SHORE EXCURSIONS IN SMALL GROUPS</strong>&nbsp;exclusively for our guests</li>
-			<li><strong>MULTIPLE SHORE EXCURSIONS IN EACH PORT OF CALL</strong>, providing a myriad of options without overcrowding</li>
-			<li><strong>BESPOKE, SHORESIDE EXPERIENCES</strong>&nbsp;upon request, away from the tourist crowds with private viewings and exclusive access in fascinating locales</li>
-			<li><strong>A PRIVATE GUIDE AND DRIVER</strong>&nbsp;for a more personalized level of engagement in each destination</li>
-			</ul>
-			<p>Discover how &mdash; with our unrivaled space at sea &mdash; Regent Seven Seas Cruises&reg; will exceed your loftiest expectations of comfort and personalized service for a truly unforgettable experience aboard The World&rsquo;s Most Luxurious Fleet&trade;.</p>
 			<br>
 			<p>The world is waiting. Start the journey with Regent.</p>
 		]]></body>
@@ -87,11 +95,11 @@
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/04/hero/advertorial-01.jpg</hero_src>
 		<hero_caption><![CDATA[UNRIVALED SPACE AT SEA™]]></hero_caption>
-		<hero_credit><![CDATA[Regent Seven Seas Cruises®]]></hero_credit>
+		<hero_credit><![CDATA[Regent Seven Seas Cruises<sup>®</sup>]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/advertorial-01.jpg
 		</article_src>
 		<article_caption><![CDATA[UNRIVALED SPACE AT SEA™]]></article_caption>
-		<article_credit><![CDATA[Regent Seven Seas Cruises®]]></article_credit>
+		<article_credit><![CDATA[Regent Seven Seas Cruises<sup>®</sup>]]></article_credit>
 		
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>

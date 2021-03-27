@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2104" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[April 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[American Queen Steamboat Company]]></author>
+		<id_supplier><![CDATA[aqs]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Get Ready to Meet the American Countess - There's a Lot to Love ]]></title>
+		<teaser><![CDATA[
+			articleTeaser
+		]]></teaser>
+		<lead><![CDATA[
+			The newest gem in our riverboat fleet, <em>American Countess</em> welcomes 245 guests along the Tennessee, Ohio, Cumberland, and Mississippi rivers. Her sleek, contemporary design offers plenty of open space for gathering and sharing the fun, and you&rsquo;ll love the great forward-facing windows and the portside bar with an 80-foot view.
+		]]></lead>
+		<body><![CDATA[
+			<p>American Queen Steamboat Company sets the standard for cruising on American rivers. Experience the romance of the past in modern comfort on the Mississippi, Ohio, Cumberland and Tennessee Rivers on board our authentic paddlewheelers &ndash; the iconic and opulent flagship <em>American Queen</em> or the luxurious new boutique paddlewheeler, the <em>American Duchess.</em> Or explore the great Pacific Northwest on the elegant <em>American Empress</em>.</p>
+			<p>The latest addition to our fleet of authentic paddlewheelers &ndash; the <em>American Countess</em> &ndash; offers many of the same exciting heartland and deep South itineraries as her sisters the <em>American Queen </em>and <em>American Duchess</em>. Built from an existing hull, the <em>American Countess </em>underwent significant reconstruction, including lengthening the boat by 60 feet. Enjoy the signature distinctions that have made American Queen Steamboat Company the most award-winning river cruise line in America.</p>
+		]]></body>
+		
+		<tab_group id_supplier="aqs">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p class="small">The <em>American Countess&rsquo;s</em> four decks, including a Sun Deck, and 123 comfortable, inviting staterooms, will make cruising on this gorgeous paddlewheeler a truly unforgettable experience. Cabins feature a sleek and modern design that will provide the perfect place to relax after heading out on an included shore excursion or taking in an evening Broadway-caliber performance in The Theater on board.<br /><br />As our award-winning culinary team takes full advantage of each region&rsquo;s diverse bounty of fresh, local ingredients to fashion authentic dishes, our gracious staff charms with friendly, courteous attention to your needs in the Grand Dining Room. A more casual atmosphere is offered in the River Grill, which allows guests to dine at their own pace.<br /><br />It&rsquo;s easy to stay active onboard the <em>American Countess</em> in her well-appointed Fitness Center, while the Card Room provides a perfect spot for guests to mingle with fellow travelers and newfound friends. It&rsquo;s also a joy to browse for souvenirs in the Gift Shop, to remember your treasured journey.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p class="small"><strong>Veranda Suites with Private Balcony - 255 sq. ft. with 40-sq.-ft. private veranda:</strong> These suites offer the perfect break from a busy day on the river. Settle in at your desk or relax on the couch, open the doors to your veranda and peacefully watch the riverbanks of America&rsquo;s heartland drift by. <br /><br /><strong>Deluxe Outside Staterooms with Open Veranda - 220 sq. ft. with open veranda:</strong> Start your morning on the river by opening sliding doors to enjoy fresh air and picturesque landscape as we gently drift past. Indulge in some snacks on the deck outside your stateroom, socialize with fellow guests or simply enjoy a luxurious day of lounging. <br /><br /><strong>Inside Staterooms - 170 sq. ft.:</strong> Our Interior Staterooms invite you to relax and unwind in modern comfort. These spaces offer a tranquil retreat in which you can feel at home on the river and prepare for exciting days brimming with fun activities.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p class="small">Inspired by America&rsquo;s heartland and our Southern heritage, our menus showcase the varied cultural and culinary influences of our nation. Savor each succulent bite, swirl and sip amidst the rich ambiance of the Grand Dining Room. If you are looking for a more casual atmosphere, the River Grill is for you. Meals there feature favorite main dishes, such as roast prime rib alongside irresistible sides &ndash; roasted new potatoes, classic mac-and-cheese and fresh salads.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p class="small"><strong>ENTERTAINMENT<br /></strong>Entertainment on the <em>American Countess</em> is one-of-a-kind. Make plans to spend your evenings with nightly river cruise entertainment. Live entertainers will bring down the house in The Theater. Catch world-class entertainment, relive a historical moment or hear a famous river tale originally told by Mark Twain. And be sure to bring your dancin&rsquo; shoes to the Library to enjoy a late-night live set by our talented musicians.<br /><br /><strong>ENRICHMENT<br /></strong>Learn more about the region in which you are traveling with a number of enrichment programs we offer. See for yourself the highlights of each port that we visit on one of our guided Hop-On Hop-Off shore excursions, or elect to take part in one of our expertly designed premium experiences. And our onboard historians &ndash; we like to call them Riverlorians &ndash; provide interesting lectures on the history and culture that surrounds you as you roll down the river.<br /><br /><strong>RELAXATION<br /></strong>The rhythm of the river is slow as a southern drawl that invites us all to take a deep breath and enjoy the simple moments. Take in the sunrise with a cup of coffee as you sit on one of the many social verandas, or have a drink in the Grand Lobby as meet new traveling companions. Or Perks &ndash; a self-serve snacking area &ndash; invites you grab a freshly baked cookie and curl up with a good book.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<ul class="small"><li><strong>1-NIGHT PRE-CRUISE HOTEL STAY </strong>with FREE ground transfers between the hotel and the vessel</li><li><strong>UNLIMITED SHORE EXCURSIONS </strong>available in port and, with your comfort in mind, deluxe, private motorcoaches will get you there safely</li><li><strong>UNLIMITED BEVERAGES </strong>including extensive wine list, choice spirits, local craft beers and specialty coffees</li><li><strong>OPEN BARS AND LOUNGES </strong>throughout the vessel including a smoothie and juice bar EVERY morning</li><li><strong>ALTERNATIVE DINING </strong>featuring fresh lobster and USDA Prime Beef available EVERY night</li><li><strong>24-HOUR IN-ROOM DINING</strong></li><li><strong>UNLIMITED WIFI</strong></li><li><strong>BICYCLES AND HIKING STICKS</strong></li><li><strong>LIVE, DAILY ENTERTAINMENT AND ENRICHMENT</strong></li></ul>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<video>
+				<title><![CDATA[Come Home to America]]></title>
+				<content><![CDATA[
+					<p class="small">Come Home to American with American Queen Steamboat Company. Explore the rivers of America. Enjoy the splendor of the Great Lakes. Discover the wilds of Alaska.</p>
+				]]></content>
+				<embed><![CDATA[
+					<iframe width="100%" src="https://www.youtube.com/embed/PazPNevVsM8?rel=0" style="width: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				]]></embed>
+			</video>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/04/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/04/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

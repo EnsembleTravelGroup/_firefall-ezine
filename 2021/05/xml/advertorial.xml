@@ -75,41 +75,40 @@
 		<dir_month><![CDATA[05]]></dir_month>
 		<id_article><![CDATA[02]]></id_article>
 		
-		<author><![CDATA[supplierName]]></author>
-		<id_supplier><![CDATA[supplierID]]></id_supplier>
+		<author><![CDATA[Paradisus by Meli&aacute;]]></author>
+		<id_supplier><![CDATA[pbm]]></id_supplier>
 		
-		<title><![CDATA[articleTitle]]></title>
-		<teaser><![CDATA[supplierName]]></teaser>
+		<title><![CDATA[An Upgrade to Exceptional!]]></title>
+		<teaser><![CDATA[The luxury, all-inclusive resort brand in Mexico and the Caribbean now offers a new premium guest experience throughout its six leading resorts.]]></teaser>
 		<lead><![CDATA[
-			articleLead
+			The Reserves at Paradisus by Meli&aacute; resorts, offers the highest accommodations within each resort featuring expansive suites with the latest technology and luxurious amenities, and most premium service within the brand, featuring exclusive amenities and curated VIP services.
 		]]></lead>
 		<body><![CDATA[
-			<p></p>
+			<p>Guests who book The Reserve experience specialized concierge service including private check-in and check-out, personalized in-room aromatherapy, custom turn-down service, individual assistance with priority reservations for activities and restaurants, private pool and beach club access with customized service and access to special curated events throughout the resort, such special culinary events and glamping on the beach.</p>
 
 			<figure class="article-tile" style="margin: 40px 0;">
-				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/05/article/advertorial-02-##.jpg">
-				<figcaption>
-					<h4>tileHeading</h4>
-					tileContent
-				</figcaption>
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/05/article/advertorial-02-01.jpg">
 			</figure>
 
-			<figure class="article-tile" style="margin: 60px 0;">
-				<h4>videoTitle</h4>
-				<p>videoDescription</p>
-				<iframe width="100%" height="500" src="https://www.youtube.com/embed/youtubeID?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<p>The Reserve offers both adults-only and family-friendly options. Adults have access to areas within each resort solely for adults including restaurants, lounges and beaches. Families receive personalized turn-down service including cookies and milk for kids and in-room video game set-up along with access to private kids&rsquo; facilities.</p>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/05/article/advertorial-02-02.jpg">
 			</figure>
+
+			<p>Amid the new travel era, safety is the utmost priority for our Paradisus by Meli&aacute; guests, which is the Stay Safe with Meli&aacute; program has been implemented to assure that all safety measures and protocols are practiced on property; along with complimentary medical insurance and on property antigen testing for guests returning home.</p>
+			<p>Whether it is a family or couples getaway, The Reserve is the perfect personalized service to enhance the vacation experience.</p>
 		]]></body>
 		
 		<body_2><![CDATA[]]></body_2>
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/05/hero/advertorial-02.jpg</hero_src>
-		<hero_caption><![CDATA[articleTitle]]></hero_caption>
-		<hero_credit><![CDATA[supplierName]]></hero_credit>
+		<hero_caption><![CDATA[An Upgrade to Exceptional!]]></hero_caption>
+		<hero_credit><![CDATA[Paradisus by Meli&aacute;]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/advertorial-02.jpg
 		</article_src>
-		<article_caption><![CDATA[articleTitle]]></article_caption>
-		<article_credit><![CDATA[supplierName]]></article_credit>
+		<article_caption><![CDATA[An Upgrade to Exceptional!]]></article_caption>
+		<article_credit><![CDATA[Paradisus by Meli&aacute;]]></article_credit>
 		
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>

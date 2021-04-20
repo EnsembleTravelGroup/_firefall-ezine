@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2105">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[May 2021]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		
+		<author><![CDATA[Discover Greece]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Uncover the Roots of Mykonos Through Agrotourism]]></title>
+		<teaser><![CDATA[
+			Discover a beating heart of authenticity.
+		]]></teaser>
+		<lead><![CDATA[
+			We all know Mykonos for its cosmopolitan atmosphere, vivid nightlife, and lifestyle for the rich and famous. But if you dig a little deeper and go beyond the curtain of whitewashed luxury, you&rsquo;ll uncover a scene of authenticity where the cultural and culinary roots of the island as well as the people, the dairies and farms, and the local produce steal the show. Be prepared to have your perception of this iconic island in the Cyclades forever changed. And, with Greece having recently reopened its borders, this tried-and-true destination can finally reveal its other facets.
+		]]></lead>
+		<body><![CDATA[
+			<p>Imagine a home in a traditional Greek village. A wood-fired oven is coming up to temperature and the phyllo pastry is rolled out wafer-thin in the kitchen. An assortment of vegetables (straight from the garden) and cheeses (made in a local dairy) stand ready for whenever they are needed, as do the eggs (freshly collected from the hen coop in the yard). And as for the pie that&rsquo;s being baked&hellip; that&rsquo;s out of a hand-written recipe book passed down through generations.</p>
+			<p>Now, what if you learned that this house is in Mykonos? It&rsquo;s an image that&rsquo;s far from the scenes of luxury and glamour usually associated with the Cycladic isle. But the truth is that behind all that whitewashed beauty is a beating heart of authenticity that&rsquo;s felt in every village on the island.</p>
+			<p>You can discover it by learning how to knead bread the local way or how all the different cheeses (like <em>xynotiro</em>, <em>tyrovolia</em> or <em>kopanisti</em>) are made. Or, you can pick produce straight from an organic vegetable patch and cook lunch with it.</p>
+			<p>You&rsquo;ll learn all about the locals&rsquo; relationship with their domesticated animals (sheep, hens, horses, donkeys, and rabbits). And, you&rsquo;ll be introduced to the island&rsquo;s wines by sampling grape varieties you&rsquo;ve perhaps never heard of before (Assytriko, Athiri, Monemvasia, Malagouzia, Agiannitis and Mandilaria).</p>
+			<p>Most of all, you&rsquo;ll hear the stories of the personalities behind the farms and dairies showcasing the best of Mykonos&rsquo; traditional produce and cuisine, as you sample new tastes or buy souvenirs to relive the experience at home.</p>
+			<p>You can cherry-pick the farms and dairies that interest you on Mykonos, but if you want a fully authentic agrotourism experience, here are a few places you can&rsquo;t miss.</p>
+			<h4>Agios Lazaros</h4>
+			<p>Very close to the main town, Agios Lazaros has the cosmopolitan aura of luxury shops and hotels you might expect on Mykonos, but if you want to learn about the local cheeses, head to Mykonos Farmers. Along with using modern techniques, the farm demonstrates traditional cheese-making methods and explains the differences in using fresh goat&rsquo;s, sheep&rsquo;s and cow&rsquo;s milk. It&rsquo;s your chance to see which you prefer: <em>xynotiro</em> (matured longer for a more sour, salty taste that works well with pasta dishes), <em>tyrovolia</em> (a soft, short-maturing cheese mainly used as a base in homemade pies), <em>kopanisti</em> (an alpine cheese that becomes spicier as it matures over 40 to 140 days), or <em>niari</em> (a short-maturing and soft cheese).</p>
+			<h4>Ano Mera</h4>
+			<p>Mykonos&rsquo; second-largest settlement has a wide range of experiences to sample. Just before you reach the village, you&rsquo;ll find&nbsp;<em>Mykonian Spiti</em>, where you&rsquo;re invited to experience the ways of a traditional home (as its name translates) &ndash; perhaps through a cookery lesson using vegetables from the family&rsquo;s nearby farm accompanied by stories of local traditions, religion, and family life. Another farm &ndash; the Mykonos&nbsp;<em>Vioma Organic Farm</em>&nbsp;&ndash; is also found just outside of town. There, you can buy vegetables, dairy products, and wines, as well as honey from the farm&rsquo;s 20 beehives. And, there&rsquo;s&nbsp;<em>Rizes&nbsp;</em>(or &ldquo;roots&rdquo;), a farmstead which, as the name suggests, recreates Mykonian traditions through furnishings as well as through cookery and cheese-making lessons.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/05/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Uncover the Roots of Mykonos Through Agrotourism]]></hero_caption>
+		<hero_credit><![CDATA[Uncover the Roots of Mykonos Through Agrotourism]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Uncover the Roots of Mykonos Through Agrotourism]]></article_caption>
+		<article_credit><![CDATA[Uncover the Roots of Mykonos Through Agrotourism]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/05/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+		</tags>
+	</article>
+</root>

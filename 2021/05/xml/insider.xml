@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2105">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[May 2021]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		
+		<author><![CDATA[Atlas Ocean Voyages ]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Travel Confidently with Atlas Ocean Voyages]]></title>
+		<teaser><![CDATA[
+			Where high-end experiences meet stimulating adventures.
+		]]></teaser>
+		<lead><![CDATA[
+			As travel begins to pick back up, travelers are looking for an extra ounce of confidence and security. We chatted with our new cruise partner, Atlas Ocean Voyages, to find out why travelers looking to explore confidently should book one of their voyages.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> Tell us a bit about Atlas Ocean Voyages and the types of voyages the company offers.</p>
+			<p>Atlas Ocean Voyages is where big adventures start small. We&rsquo;re leading the way in small-ship, expedition cruising, delivering luxe-adventure journeys for the curious and adventurous traveler. Our voyages are the exciting combination of high-end experiences with stimulating adventures and cultural immersions within both lesser-known destinations and hidden gems of iconic ones.</p>
+			<p>Our premier, expedition-style ship, <em>World Navigator</em>, is the smallest in luxury, expedition cruising. This means we&rsquo;re able to provide more personal service per guest and an intimate atmosphere with fewer crowds.</p>
+			<p class="question"><strong>Q:</strong> What makes Atlas Ocean Voyages unique in comparison to other cruise lines?</p>
+			<p>We define our expedition cruises as luxe-adventure travel, which is the perfect balance of simple elegance and valuable experiences that stimulate your mind, body, and spirit. We&rsquo;re offering invigorating, once-in-a-lifetime moments and casual luxury for those travelers who enjoy the simple pleasures but still want to be excited by exploration. And, we make it all-inclusive, so you know you&rsquo;re getting the most out of every journey.</p>
+			<p class="question"><strong>Q:</strong> Why is Atlas Ocean Voyages the right choice for travelers looking to explore the world confidently?</p>
+			<p>Atlas&rsquo; Plan With Confidence policy is the most flexible in cruising. We allow for a 100% refund of deposited funds for cancellations up to 91 days before sailing, as well as a 100% future cruise credit on cancellations 15 days or more prior to sailing. Plus, you can change your reservation as many times as you want &ndash; including changing your destination &ndash; up to 15 days before setting sail.</p>
+			<p class="question"><strong>Q:</strong> What is Atlas Ocean Voyages implementing on its new ship to keep travelers&rsquo; best interests in mind?</p>
+			<p>Our maiden voyage sets sail Summer 2021, so we&rsquo;ve been able to craft and design everything with our guests&rsquo; best interests from the start. To create a sense of intimacy within one&rsquo;s travel party, all dining is 2- or 4-seated spaces only.</p>
+			<p><em>World Navigator</em> is also built with ultra-high lift fin stabilizers that increase stability up to 15 percent compared to conventional stabilizers, creating a comfortable voyage for guests. Moreover, its alternate hydro-jet propulsion system helps the ship quietly cruise up to five knots without disturbing marine wildlife, bringing travelers to incomparable up-close encounters. Plus, it&rsquo;s categorized as a Polar Category C and Ice Class 1B polar code for Antarctic expeditions.</p>
+			<p class="question"><strong>Q:</strong> What does &ldquo;All Inclusive All The Way&rdquo; mean for travelers who book with Atlas Ocean Voyages?</p>
+			<p>When we say &ldquo;All Inclusive All The Way,&rdquo; that means everything you expect on a luxury voyage plus even more to surprise and delight you. This promise includes roundtrip airfare for all destinations &ndash; including complimentary, non-stop private charter jet service to Ushuaia for all Antarctica expeditions; a complimentary land excursion in every port in every destination; medical evacuation insurance; and much more.</p>
+			<p class="question"><strong>Q:</strong> If you could recommend one Atlas Ocean Voyages trip, which would you recommend?</p>
+			<p>Our maiden voyage, <em>7-Night Essential Black Sea &amp; Asia Minor</em>, setting sail July 28, 2021. It starts in Athens, which we&rsquo;re excited about as Greece re-opens to US visitors, and sails to Odessa. Passing through Turkey, Bulgaria, and Romania along thew way, travelers will get the chance to trek ancient ruins and engage in modern, local culture alike.</p>
+			<p class="question"><strong>Q:</strong> BONUS: Describe Atlas Ocean Voyages in one word.</p>
+			<p>Luxe-Adventure</p>
+			
+			<br/>
+			<p style="font-size: 12px;">Image Credit: Atlas Ocean Voyages</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/05/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Travel Confidently with Atlas Ocean Voyages]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Travel Confidently with Atlas Ocean Voyages]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/05/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="ocean-cruising"><![CDATA[ocean-cruising]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+		</tags>
+	</article>
+</root>

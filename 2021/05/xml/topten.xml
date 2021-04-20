@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2105" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[May 2021]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Isabelle Labrosse]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[7 Reasons to Be Hopeful for the Future of Travel]]></title>
+		<teaser><![CDATA[
+			Here’s why you should remain confident about the future of travel.
+		]]></teaser>
+		<lead><![CDATA[
+			As social scientist and writer, Rosabeth Moss Kanter, once said: &ldquo;Confidence isn&rsquo;t optimism or pessimism, and it&rsquo;s not a character attribute. It&rsquo;s the expectation of a positive outcome.&rdquo;
+		]]></lead>
+		<body><![CDATA[
+			<p>This feels especially true when we think of travel and what the tourism industry and society in general have had to overcome in the past year. But to us, this also means hope. Hope for a renewed sense of interconnectedness, for what the future has in store for us, and for a tourism landscape that is more sustainable, more inclusive, and that has a deeper meaning.<br /><br /> Here are seven reasons to remain hopeful and confident about the future of travel.</p>
+		]]></body>
+
+		<gallery>
+			<img>
+				<title><![CDATA[We are all craving it.]]></title>
+				<content><![CDATA[Hope is in the air for travelers all over the world. According to a recent survey by Vacasa and Allison + Partners, a majority of U.S. consumers (53%) say they feel hopeful about 2021. And of those, nearly 60% were planning to take a vacation this spring. This trend expands worldwide. According to Booking.com&rsquo;s report on getting back to travel, 66% of the 28,000 travelers from 28 countries surveyed feel more hopeful about traveling in 2021, and an equal number have a heightened desire to see the world after being unable to do so in 2020. So much so that 71% of global travelers would rather go on a vacation this year than find true love! Need we say more?&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Vaccinations are rolling out.]]></title>
+				<content><![CDATA[The roll-out of COVID-19 vaccines is a big part of what gives travelers hope for the future, with a majority of travelers saying that they will not be traveling internationally until they&rsquo;ve been vaccinated, and that they will only travel to countries where vaccination programs have been implemented. In the United States, the CDC said that those who are fully vaccinated can travel &ldquo;at low risk to themselves&rdquo; both domestically and internationally (with precautions such as wearing a mask, social distancing, and hand washing). As vaccinations keep getting more traction, this is music to our traveling ears.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Countries are reopening to tourism.]]></title>
+				<content><![CDATA[Greece, Israel, Iceland, Costa Rica, Ecuador, Croatia, Tahiti, Barbados, Belize, Poland, Estonia, Guatemala, Montenegro, Seychelles, Slovenia... This list suffices to spark our travel-deprived wanderlust. But the good news is that it doesn&rsquo;t stop there! All around the world, countries are welcoming back travelers. And, with the list getting longer each week and the protocols being different in every country, you&rsquo;ll never be happier to have a travel advisor by your side to help you make sense of the requirements and measures in place to keep you safe.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Companies are following the pace.]]></title>
+				<content><![CDATA[Everywhere, operators are getting back to travel. In April, G&nbsp;Adventures celebrated its 100<sup>th</sup> tour conducted since the restart. With their &ldquo;Travel with Confidence&rdquo; policy, they ensure that the most up-to-date health and safety measures are in place to protect travelers, staff, and local communities. On the air side, TAP Air Portugal announced that it will gradually restore its pre-COVID operations on 100 routes by August, with service to Lisbon from many North American cities and easier access to a COVID-19 testing service for passengers. Cruise lovers will rejoice about the long-awaited return of cruising, with Seabourn, Royal Caribbean, Celebrity, Silversea, Crystal and more resuming operations this summer. Again, your travel advisor can guide you through the most recent announcements and help you choose the safest option for you.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Bookings are trending upward.]]></title>
+				<content><![CDATA[With the increase in flexible booking options, many companies are seeing significant pent-up demand from landlocked travelers, including for cruises in 2022 &hellip; and beyond! Silversea Cruises recently saw its 2023 <em>South Side Story</em> world cruise &ndash; a 139-day, arts-inspired itinerary visiting 66 destinations in 34&nbsp;countries in the Southern Hemisphere &ndash; sell out within hours of its general opening! Oceania Cruises&rsquo; 2023 <em>Around the World in 180 Days</em> voyage &ndash; cruising to 96 ports in 33 different countries and visiting over 60 UNESCO World Heritage sites &ndash; also sold out in one day in January. This shows just how much travelers are yearning to finally make their bucket-list journey a reality.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[The cruise industry is resilient.]]></title>
+				<content><![CDATA[Despite the hardships of 2020, the sold-out world cruises speak to just how resilient the cruise industry is, and how much cruising is missed. The Cruise Lines International Association (CLIA) reports that, after science-backed measures and enhanced protocols were put in place, more than 200 sailings took place from early July through mid-December 2020. And, there is optimism heading into 2021: according to CLIA&rsquo;s <em>2021 State of the Cruise Industry Outlook</em>, two out of three cruisers are willing to cruise within a year, and 58% of international travelers who have never cruised before are likely to cruise in the next few years.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[We have the power to shape a more sustainable future.]]></title>
+				<content><![CDATA[The pandemic has given us, as individuals and as a society, the opportunity to reflect on what we want for the future of travel. Science shows us that it is more important than ever to become more conscious travelers, to support businesses who share our values, and to visit destinations where we have a positive impact on communities. The tourism industry has sometimes been known for its tendency to harm natural environments and cause frictions with local people. But, with travel on hold for a year, we now have the ability to shape a more sustainable future for travel. Buying from small, local businesses, hiring local guides, valuing diversity and inclusion, being cognizant of our carbon footprint in order to reduce it, avoiding single-use plastics&hellip; These are all simple but actionable ways to start contributing to making travel better for the future and making our long-awaited travel experiences that much more memorable.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index-07.jpg]]></src>
+				<position>6</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[7 Reasons to Be Hopeful for the Future of Travel]]></hero_caption>
+		<hero_credit><![CDATA[Isabelle Labrosse]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/05/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[7 Reasons to Be Hopeful for the Future of Travel]]></article_caption>
+		<article_credit><![CDATA[Isabelle Labrosse]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/05/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="ocean-cruising"><![CDATA[ocean-cruising]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>

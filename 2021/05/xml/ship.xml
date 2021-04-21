@@ -22,7 +22,7 @@
 		]]></lead>
 		<body><![CDATA[]]></body>
 		
-		<tab_group id_supplier="sea">
+		<tab_group id_supplier="sil">
 			<tab id="01">
 				<id><![CDATA[01]]></id>
 				<title><![CDATA[The Ship]]></title> <!-- Le navire -->

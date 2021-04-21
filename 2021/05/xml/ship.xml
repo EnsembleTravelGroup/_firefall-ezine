@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2105" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[May 2021]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[Silversea]]></author>
+		<id_supplier><![CDATA[sea]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[A New Start with a New Ship: Sail the Eastern Mediterranean in June 2021]]></title>
+		<teaser><![CDATA[
+			Silversea is delighted to announce its return to service from June 18, 2021.
+		]]></teaser>
+		<lead><![CDATA[
+			When immersive discovery is top of your mind, every other detail is top of ours. Even before you step aboard our ships, and well after you disembark, our enhanced all-inclusive offering provides complete peace of mind, as well as a special level of comfort that is a hallmark of the Silversea experience. Preempting even your most intangible need, our industry-leading service is simply unrivalled. The result is a curated lifestyle that leaves you free to relax, indulge, and discover, as you explore the world.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		
+		<tab_group id_supplier="sea">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>Offering an abundance of space, yet maintaining the famous Silversea small-ship intimacy, <em>Silver Moon</em> is the ideal ship to begin cruising again. With eight dining options including the lauded S.A.L.T culinary program, fewer than 300 suites, an almost 1:1 crew to guest ratio and spacious outdoor areas, the all-inclusive <em>Silver Moon</em> gives ultra-luxury options while making sure that your safety is guaranteed.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- H&eacute;bergement -->
+				<content><![CDATA[
+					<p>Your very own private veranda spills out onto sweeping views of the ocean. As you come back in through the floor-to-ceiling glass doors, you&rsquo;re welcomed by a refined atmosphere, ample living space and the finest of amenities. This is luxury that makes you feel right at home.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>With S.A.L.T. you&rsquo;ll connect deeply with the rich heritage of each and every destination. S.A.L.T. integrates food, culture and travel like never before, with amazing and immersive food and drink experiences.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activit&eacute;s -->
+				<content><![CDATA[
+					<p>Silver Moon features unique spaces such as our signature Arts Caf&eacute;, a place that blends the caf&eacute; experience with featured artworks that fill the space, and your soul. With an all-new open deck spa area and your choice of spacious all-suite accommodation, your time onboard will be just as fantastic as your days on land.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="05">
+				<id><![CDATA[05]]></id>
+				<title><![CDATA[Family]]></title> <!-- Famille -->
+				<content><![CDATA[
+					<p>Silversea is the perfect luxury cruise for multi-generational travel. Enjoy up to 75% savings on 3rd and 4th guests in a suite when traveling with kids 17 years old or younger.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01-family.jpg</tab_src>
+				<tab_caption><![CDATA[Family]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>You&rsquo;ll enjoy our world-renowned service throughout the ship as our staff pamper you and cater to your every whim. With Silversea cruises you enjoy free flowing premium wines and spirits, caviar on demand, delicious gourmet cuisine, in-suite dining, full butler service for every suite and of course all gratuities.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<video>
+				<title><![CDATA[Silver Moon Ship Tour]]></title>
+				<content><![CDATA[
+					<p>Silver Moon maintains the small-ship intimacy and spacious all-suite accommodation which are the hallmarks of the Silversea experience. Silver Moon also features the all-new Sea And Land Taste (S.A.L.T.) program – an immersive culinary concept that will enable guests to travel deeper through a range of destination based gastronomic experiences.</p>
+				]]></content>
+				<embed><![CDATA[
+					<iframe width="100%" src="https://www.youtube.com/embed/QuFzbIZnvG8?rel=0" style="width: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				]]></embed>
+			</video>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/05/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

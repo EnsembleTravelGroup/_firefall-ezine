@@ -6,52 +6,40 @@
 		<dir_year><![CDATA[21]]></dir_year>
 		<dir_month><![CDATA[05]]></dir_month>
 		
-		<author><![CDATA[articleAuthor]]></author>
+		<author><![CDATA[Alexa Wheeler]]></author>
 		<translator><![CDATA[]]></translator>
 		
-		<title><![CDATA[articleTitle]]></title>
+		<title><![CDATA[Travel Confidently by Traveling Responsibly]]></title>
 		<teaser><![CDATA[
-			articleTeaser
+			Make a difference, one trip at a time.
 		]]></teaser>
 		<lead><![CDATA[
-			articleLead
+			With Earth Day 2021 recently behind us, and with a newfound appreciation for slower travel post-pandemic, the conversations around sustainability are ramping back up. We&rsquo;ve recently seen the positive effects of less tourism, but we also know how important tourism is to so many places around the world, so the solution lies within traveling responsibly and allowing our sustainability practices to evolve.
 		]]></lead>
 		<body><![CDATA[
-			<p></p>
-
-			<figure class="article-tile" style="margin: 40px 0;">
-				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/05/article/style-articleID-##.jpg">
-				<figcaption>
-					<h4>tileHeading</h4>
-					tileContent
-				</figcaption>
-			</figure>
-
-			<figure class="article-tile" style="margin: 60px 0;">
-				<h4>videoTitle</h4>
-				<p>videoDescription</p>
-				<iframe width="100%" height="500" src="https://www.youtube.com/embed/youtubeID?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</figure>
-
-			
-
-			<!-- Embedded YouTube Video -->
-			<div class="videoWrapper" style="padding-bottom: 45%;">
-				<figure>
-					<iframe width="853" height="480" src="https://www.youtube.com/embed/youtubeID?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-				</figure>
-			</div>
-
+			<p>Ensemble Travel Group recently held a <a href="https://www.insidertravelreport.com/travel-agents?s=ensemble-restart-session-puts-focus-firmly-on-selling-sustainable-travel">&ldquo;Sustainable and Responsible Travel&rdquo; panel</a> featuring two Ensemble travel agency members who are experts on the topic and moderator, Dr. Jonathon Day, the founder of the Travel Care Code initiative and Associate Professor at Purdue University.</p>
+			<p>The main takeaways from the panel were 1) starting small is okay because doing anything is better than doing nothing, and 2) responsible and sustainable travel is so much more than being environmentally conscious.</p>
+			<p>Here are five &ldquo;not so obvious&rdquo; ways you can travel responsibly and sustainably:</p>
+			<h4>Start small.</h4>
+			<p>You don&rsquo;t have to book a full-fledged sustainable trip to make a difference. Start small by simply booking portions of your trips, whether that&rsquo;s your hotel stays, tours, or even your meals with companies that have the same values and ethics as you do. Look for companies that put sustainability at the forefront of their business practices, who give back portions of their proceeds to nonprofits, and/or who hire staff from the local community. Hiring locally does more than provide jobs to the local people; in many destinations, it keeps local people away from doing things like poaching which are harmful to the local community and the environment.</p>
+			<h4>Think about where your money goes.</h4>
+			<p>Like the above, support the destination&rsquo;s community by spending your dollars locally. Find artisan shops for your souvenirs versus buying mass-produced goods, eat at restaurants that source their ingredients nearby and/or choose food from the menu that&rsquo;s local to the area (hamburgers and fries are great, but eating beyond your comfort zone is better), and support family-owned local businesses. Additionally, taking part in a destination&rsquo;s cultural heritage is vital to preserving it. This includes both the protection of physical sites and the celebration of the local people and their culture. From responsibly visiting famous landmarks to taking a cooking class with a local, booking experiences that showcase the local culture and give back to the community are much more rewarding than simply snapping a selfie at a tourist hot spot.</p>
+			<h4>Take the &ldquo;longer route&rdquo;.</h4>
+			<p>On the environmental side of things, take local transportation or consider walking or riding a bike (when it&rsquo;s safe to do so). Stray away from cars when you can and enjoy the longer route. When traveling nowadays, it&rsquo;s hard not to rush around in the attempt to see it all. From &ldquo;FOMO&rdquo; mentality to &ldquo;doing it for the &lsquo;gram,&rdquo; we&rsquo;ve lost sight of what&rsquo;s truly important &ndash; slowing down and immersing ourselves into the destination we&rsquo;re visiting. By taking the longer route, we not only help reduce carbon emissions and save the environment, we also support the local communities by spending more time exploring the &ldquo;road less traveled.&rdquo;</p>
+			<h4>Incorporate educational experiences.</h4>
+			<p>It&rsquo;s never too late to begin incorporating responsible practices into your travels, but when possible, start children young. If children can learn how to responsibly travel now, it will have long lasting effects. When booking family vacations, don&rsquo;t miss out on the opportunity to educate your child and help them learn about the world. Not only will it make a difference on destinations, it&rsquo;ll make a difference on the world as a whole by raising more empathetic individuals with broader perspectives of other cultures and ways of life.</p>
+			<p>Another educational option to consider is regenerative travel which focuses on making destinations better, instead of simply &ldquo;not being bad.&rdquo; A great example of this is voluntourism. But, before you focus on regenerative travel efforts, it&rsquo;s important you understand the basics of sustainable and responsible travel, which is why you should do the following.</p>
+			<h4>Book with a travel advisor.</h4>
+			<p>Planning a sustainable trip can be complicated, but you can make it a shared responsibility and collaborative effort by booking your trip through an advisor. Travel advisors have the ability to do the proper homework and partner with the proper companies in order to create a responsible and sustainable trip for you. Planning travel is their expertise, and they have the knowledge, time, and connections to do what you can&rsquo;t.</p>
+			<p>The message is clear: Being sustainable and practicing responsible travel doesn&rsquo;t require sacrifice. Traveling responsibly and sustainably can actually make travel that much more rewarding and memorable. Plus, how amazing it is that we each have the direct opportunity to make a positive impact on our world every single time we take a trip? Afterall, we&rsquo;re guests in all the places we visit, and the only thing we should leave behind are footprints.</p>
 		]]></body>
 		
-		<!-- <p class="question"><strong>Q:</strong> -->
-		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/05/hero/style.jpg</hero_src>
-		<hero_caption><![CDATA[articleTitle]]></hero_caption>
-		<hero_credit><![CDATA[sectionTitle]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<hero_caption><![CDATA[Travel Confidently by Traveling Responsibly]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/05/article/style.jpg</article_src>
-		<article_caption><![CDATA[articleTitle]]></article_caption>
-		<article_credit><![CDATA[sectionTitle]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_caption><![CDATA[Travel Confidently by Traveling Responsibly]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/05/email/style.jpg</email_src>
 		
 		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
@@ -59,16 +47,11 @@
 		<tile_new>none</tile_new>
 		
 		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="voluntourism"><![CDATA[voluntourism]]></tag>
 		</tags>
 	</article>
 </root>

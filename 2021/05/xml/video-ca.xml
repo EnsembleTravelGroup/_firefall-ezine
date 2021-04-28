@@ -1,125 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<article date="2105" id="01">
-		<dir_name>
-			<![CDATA[video]]>
-		</dir_name>
-		<pub_date>
-			<![CDATA[May 2021]]>
-		</pub_date>
-		<!-- May = Full month name (ie. January) -->
-		<dir_year>
-			<![CDATA[21]]>
-		</dir_year>
-		<dir_month>
-			<![CDATA[05]]>
-		</dir_month>
-		<file_video>
-			<![CDATA[01]]>
-		</file_video>
-		<author>
-			<![CDATA[Manulife]]>
-		</author>
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[May 2021]]></pub_date>
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		<author><![CDATA[Manulife]]></author>
 		<id_supplier><![CDATA[man]]></id_supplier>
-		<title>
-			<![CDATA[Alycia – Saved by Travel Insurance]]>
-		</title>
-		<teaser>
-			<![CDATA[Manulife]]>
-		</teaser>
-		<lead>
-			<![CDATA[Watch as Alycia tells her tale of how she was saved by travel insurance when things went wrong, and how Manulife was there to help.]]>
-		</lead>
-		<body>
-			<![CDATA[]]>
-		</body>
-		<embed>
-			<![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/RuSuKUqPbI8?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]>
-		</embed>
+		<title><![CDATA[Alycia – Saved by Travel Insurance]]></title>
+		<teaser><![CDATA[Manulife]]></teaser>
+		<lead><![CDATA[Watch as Alycia tells her tale of how she was saved by travel insurance when things went wrong, and how Manulife was there to help.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/RuSuKUqPbI8?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></embed>
 		<tile_color>D2367D</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
 	<article date="2105" id="02">
-		<dir_name>
-			<![CDATA[video]]>
-		</dir_name>
-		<pub_date>
-			<![CDATA[May 2021]]>
-		</pub_date>
-		<!-- May = Full month name (ie. January) -->
-		<dir_year>
-			<![CDATA[21]]>
-		</dir_year>
-		<dir_month>
-			<![CDATA[05]]>
-		</dir_month>
-		<file_video>
-			<![CDATA[02]]>
-		</file_video>
-		<author>
-			<![CDATA[Oceania Cruises®]]>
-		</author>
-		<id_supplier>
-			<![CDATA[ocn]]>
-		</id_supplier>
-		<title>
-			<![CDATA[Introducing Oceania Cruises Vista]]>
-		</title>
-		<teaser>
-			<![CDATA[Oceania Cruises®]]>
-		</teaser>
-		<lead>
-			<![CDATA[Introducing<em> Vista</em>, your world from a new perspective. Named to reflect their view to the future, Oceania Cruises&rsquo; newest masterpiece and the seventh ship in their luxurious fleet will exemplify all the hallmarks of the Oceania Cruises experience that you have come to cherish and also will feature new and exciting elements they&rsquo;ll reveal in the months to come.]]>
-		</lead>
-		<body>
-			<![CDATA[]]>
-		</body>
-		<embed>
-			<![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/4054w8EKwWc?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]>
-		</embed>
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[May 2021]]></pub_date>
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		<author><![CDATA[Oceania Cruises®]]></author>
+		<id_supplier><![CDATA[ocn]]></id_supplier>
+		<title><![CDATA[Introducing Oceania Cruises Vista]]></title>
+		<teaser><![CDATA[Oceania Cruises®]]></teaser>
+		<lead><![CDATA[Introducing<em> Vista</em>, your world from a new perspective. Named to reflect their view to the future, Oceania Cruises&rsquo; newest masterpiece and the seventh ship in their luxurious fleet will exemplify all the hallmarks of the Oceania Cruises experience that you have come to cherish and also will feature new and exciting elements they&rsquo;ll reveal in the months to come.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/4054w8EKwWc?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></embed>
 		<tile_color>D2367D</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
 	<article date="2105" id="03">
-		<dir_name>
-			<![CDATA[video]]>
-		</dir_name>
-		<pub_date>
-			<![CDATA[May 2021]]>
-		</pub_date>
-		<!-- May = Full month name (ie. January) -->
-		<dir_year>
-			<![CDATA[21]]>
-		</dir_year>
-		<dir_month>
-			<![CDATA[05]]>
-		</dir_month>
-		<file_video>
-			<![CDATA[03]]>
-		</file_video>
-		<author>
-			<![CDATA[Princess®]]>
-		</author>
-		<id_supplier>
-			<![CDATA[pri]]>
-		</id_supplier>
-		<title>
-			<![CDATA[Princess&reg; MedallionClass&trade;<br />simplified, personalized vacations]]>
-		</title>
-		<teaser>
-			<![CDATA[Princess®]]>
-		</teaser>
-		<lead>
-			<![CDATA[A Princess<sup>&reg;</sup> MedallionClass<sup>TM</sup> vacation takes service to the next level. You&rsquo;ll enjoy faster boarding, doors that unlock as you approach and the ability to order whatever you need, delivered to you. Get the most out of your vacation through a variety of digital experiences that personalize your cruise.]]>
-		</lead>
-		<body>
-			<![CDATA[]]>
-		</body>
-		<embed>
-			<![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/QEPBHHmmRkk?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]>
-		</embed>
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[May 2021]]></pub_date>
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+		<author><![CDATA[Princess®]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+		<title><![CDATA[Princess&reg; MedallionClass&trade;<br />simplified, personalized vacations]]></title>
+		<teaser><![CDATA[Princess®]]></teaser>
+		<lead><![CDATA[A Princess<sup>&reg;</sup> MedallionClass<sup>TM</sup> vacation takes service to the next level. You&rsquo;ll enjoy faster boarding, doors that unlock as you approach and the ability to order whatever you need, delivered to you. Get the most out of your vacation through a variety of digital experiences that personalize your cruise.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/QEPBHHmmRkk?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></embed>
 		<tile_color>D2367D</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>

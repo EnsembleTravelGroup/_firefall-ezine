@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2106">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		
+		<author><![CDATA[articleAuthor]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Making an Impact Through Slow and Responsible Tourism in France ]]></title>
+		<teaser><![CDATA[
+			Here’s how to truly connect with French culture and cuisine.
+		]]></teaser>
+		<lead><![CDATA[
+			France has always been a land that cultivates its heritage, its gastronomy and its know-how. Each region and village have a story to tell which builds on a rich terroir and centuries-old traditions.
+		]]></lead>
+		<body><![CDATA[
+			<p>France also lends itself perfectly to slow tourism and soft mobility, with miles and miles of hiking trails, bike paths and greenways, as well as national parks and mountains, remote islands, and coastlines. It&rsquo;s easy to get off the beaten track and immerse yourself in the local life with the opportunity to meet endearing communities while leaving a positive mark.</p>
+			<p>While it can be hard to make sense of the many different green labels and the wealth of information available, here is a list of exceptional places and experiences for responsible travelers looking for a true connection with local people, cultures and food.</p>
+			<h4>Soft adventures, big benefits</h4>
+			<p>For those wanting to escape to the country&rsquo;s great outdoors,<em> Esprit parc national</em> is a collection of experiences and stays in France&rsquo;s 11 national parks that contribute to local life, promote encounters with women and men passionate about their territory, and respect nature and heritage. The label certifies that the products and services offered are part of a green process that helps preserve biodiversity and local heritage.</p>
+			<p>Outside national parks, France is also known for its long-distance footpaths and mythical pilgrimages, which are perfect for travelers wanting a more contemplative, meaningful stay. France has more than 369&nbsp;<em>grandes randonn&eacute;es</em> (GR or long-distance hiking trails) and is crossed by legendary paths such as the Way of St. James (Saint-Jacques-de-Compostelle), the tour of the Mont Blanc, the famous GR20 in Corsica or the Stevenson Trail. Over 37,000 miles of marked trails allow you to discover France through routes that ensure the tranquility of protected areas.</p>
+			<p>If you want a little more rhythm, but just as many scenic views, you can cycle your own Tour de France at your pace. France is at the heart of major cycling routes, with 9 of the 15 European cycling roads crossing the country. The best known are La&nbsp;V&eacute;lodyss&eacute;e (777 miles), the Loire &agrave; V&eacute;lo (808 miles) and the ViaRh&ocirc;na (506 miles). In 2020, France had 10,563 miles of developed routes, with hopes to reach 15,788 miles by 2030. In addition, many French cities now offer self-service shared bike systems such as V&eacute;lib&rsquo; and dedicated lanes to allow safe travel.</p>
+			<h4>Small towns offer a deep sense of place&hellip; and taste</h4>
+			<p>While slow tourism and responsible travel are often associated with nature, they go well beyond that. Traveling to small communities across the country means you can be more purposeful about your understanding of the culture, the history, the people and the food of a destination.</p>
+			<p>From perched villages with medieval heritage to flowery small towns with cobblestone streets and a typical coastal appeal, France has many hamlets that have jealously preserved their charm of yesteryear and art of slow living.</p>
+			<p>&ldquo;Les Plus Beaux Villages de France&rdquo; is an association of&nbsp;159 villages with a remarkable heritage requiring constant care and attention. If you feel like walking straight into a postcard, these are for you. Similarly, &ldquo;Les Plus Beaux D&eacute;tours de France&rdquo; are 107 small tourist towns and villages with quality hospitality and accommodation, a valued and attractive heritage and a local identity. For a strong focus on local traditions, the &ldquo;Petites Cit&eacute;s de Caract&egrave;re&rdquo; brand distinguishes towns that focus on preserving their heritage, at the service of sustainable cultural tourism.</p>
+			<p>More often than not, cuisine and food are core components of a culture. That&rsquo;s especially true in France, where agrotourism allows travelers to experience happiness directly in the field. The &ldquo;Accueil Paysan&rdquo; and &ldquo;Bienvenue &agrave; la ferme&rdquo; networks bring together travelers, farmworkers and other individual from rural communities who offer activities such as discovering their trades, their way of life and their know-how, all the while demonstrating their commitment to sustainable agriculture as well as fair and solidarity-based tourism.</p>
+			<p>This focus on sustainability in food also permeates the high gastronomy sector. In 2020, the MICHELIN Guide unveiled a new Green Star to highlight restaurants with a sustainable approach. To date, about 50 establishments have been awarded the label, demonstrating how chefs are committed to not only serving the bounty of the earth to food lovers from across the world, but also to respecting the planet, its resources, the producers and the animals.</p>
+			<p>No matter what your travel style is, your travel advisor is always there to help you choose responsible experiences so that you make a positive impact when you travel and come back with a headful of new memories.</p>
+			
+			<br/>
+			<p style="font-size: 12px;">Image Credit: &copy; Valentin Pacaut - The Explorers in collaboration with Atout France</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Making an Impact Through Slow and Responsible Tourism in France ]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Making an Impact Through Slow and Responsible Tourism in France ]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/06/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+			<tag slug="voluntourism"><![CDATA[voluntourism]]></tag>
+		</tags>
+	</article>
+</root>

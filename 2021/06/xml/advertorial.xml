@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2106" id="01">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[01]]></id_article>
+		
+		<author><![CDATA[Cunard]]></author>
+		<id_supplier><![CDATA[cun]]></id_supplier>
+		
+		<title><![CDATA[We Aspire to Deliver an Unmatched Joyful Vacation for You! ]]></title>
+		<teaser><![CDATA[At Cunard, our highest responsibility and top priorities are to operate safely, to protect the environment, and to be in compliance everywhere we operate in the world. ]]></teaser>
+		<lead><![CDATA[
+			articleLead
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile" style="margin: 60px 0;">
+				<h4>Discover your inspiration </h4>
+				<p>Be inspired, by Cunard and start dreaming of your next adventure.</p>
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/msrDySpxgrs?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</figure>
+
+			<h4>Our Future Sailing Plans.</h4>
+			<p>We are currently taking the opportunity to ensure we have in place a comprehensive suite of enhanced protocols, covering every aspect of a vacation with us for when we sail again. These will be in place to protect your wellbeing but still ensure you get the Cunard experience you hope for.</p>
+			<p>The steps we&rsquo;re taking will of course be in line with the very latest guidance and have the ongoing endorsement of not only the US Government, CLIA, our industry body, but be guided by a number of world-leading experts. Ask your travel advisor for full details.</p>
+			<p>Do continue to keep in touch via our social media channels and with your trusted advisor who will share the latest news and updates from our fleet. As and when life returns to normal, we look forward to welcoming you back on board your next voyage. In the meantime, please take care, stay well, plan and enjoy your time dreaming about your next Cunard cruise vacation.</p>
+			<ul>
+				<li>Sailings on Queen Victoria commence September 10, 2021 to the Norwegian Fjords.</li>
+				<li>Queen Elizabeth&rsquo;s fall sailings start October 18, 2021 from Barcelona to Singapore.</li>
+				<li>Queen Mary 2&rsquo;s themed Transatlantic Crossing leaves Southampton November 14, 2021.</li>
+			</ul>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-01-01.jpg">
+			</figure>
+
+			<h4>Now is the time to make those plans! Explore the world in style.</h4>
+			<p>We sail to a world of iconic destinations and present you with an enticing selection of inspiring journeys, from two-night short breaks and two weeks in the Mediterranean to our legendary Transatlantic Crossings and captivating World Voyages.</p>
+			<p>Your choice of three magnificent ships comprises Queen Elizabeth&reg;, Queen Victoria&reg; and Queen Mary 2&reg;, our flagship, recognized as the only ocean liner of our time. Grand in scale and refined down to the smallest detail, each is a world unto herself. A pace of discovery and relaxation, and the perfect setting from which to visit your favorite destinations or explore new lands.</p>
+			<p>It&rsquo;s with great anticipation that we await the fourth ship to join our illustrious fleet in 2023. The steel work has already begun and as she takes shape, she will be the 249th ship to fly the Cunard flag. It will be a momentous occasion, when for the first time in over 20 years, we will have four ships sailing simultaneously.</p>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-01-02.jpg">
+			</figure>
+
+			<p>When you are traveling on a Cunard ship you always have the freedom to do as much or as little as you please, it&rsquo;s completely up to you. We present you with the entire world &ndash; all you need to do is simply decide where you would like us to take you.</p>
+			<p>If this is the first time you sail with Cunard, prepare yourself for a treat. The first difference you will notice is the surprising amount of space. From broad open decks to beautiful Grand Lobbies, our ships always offer somewhere to suit the way you feel: whether it is a peaceful place or a lively activity.</p>
+			<p>It is your world to savor in your own way. You set the pace of your Cunard vacation; we offer the balance of time spent on board and ashore. Where possible, we always ensure a sea day after you set sail and the day before you disembark so you feel refreshed for the adventures to come.</p>
+			<p>Escape into a world of possibilities, a world that revolves around you.</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/advertorial-01.jpg</hero_src>
+		<hero_caption><![CDATA[We Aspire to Deliver an Unmatched Joyful Vacation for You! ]]></hero_caption>
+		<hero_credit><![CDATA[Cunard]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-01.jpg
+		</article_src>
+		<article_caption><![CDATA[We Aspire to Deliver an Unmatched Joyful Vacation for You! ]]></article_caption>
+		<article_credit><![CDATA[Cunard]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2106" id="02">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[02]]></id_article>
+		
+		<author><![CDATA[Walt Disney World<sub>®</sub>]]></author>
+		<id_supplier><![CDATA[dsn]]></id_supplier>
+		
+		<title><![CDATA[STAY IN THE MAGIC]]></title>
+		<teaser><![CDATA[A magical stay. An enchanting offer. ]]></teaser>
+		<lead><![CDATA[
+			Save up to 25% on rooms at select <em>Disney Resort</em> hotels. For stays most nights July 11 &ndash; September 29, 2021 when you book through August 28, 2021.
+		]]></lead>
+		<body><![CDATA[
+			<p>Experience the same legendary detail, service and storytelling found in <em>Walt Disney World</em><sub>®</sub> Theme Parks when you book a stay at a <em>Disney Resort</em> hotel. From unique accommodations to distinctive dining options, themed rooms and more, <em>Disney Resort</em> hotels offer Guests a variety of options that exemplify the Disney Difference.</p>
+			<p>As a Guest, you&rsquo;ll enjoy:</p>
+			<ul>
+				<li><strong>Close Proximity to the Action: </strong>Enjoy the ease and convenience of getting around <em>Walt Disney World</em><sub>®</sub> Resort with fun transportation options. Zip about on the world-famous monorail, fly high on Disney Skyliner and cruise along serene waterways aboard a water taxi. Some of the <em>Disney Resort</em> hotels are even within walking distance of a Theme Park.</li>
+				<li><strong>Enchanting Amenities: </strong><em>Walt Disney World</em><sub>®</sub> Resort hotels boast one-of-a-kind features that will immerse you in the worlds of classic Disney tales&mdash;including themed pools with slides, poolside activities, delicious dining experiences and much more.</li>
+			</ul>
+			<p><strong>New! Disney Park Pass Reservation System </strong></p>
+			<p>Both a Theme Park reservation&nbsp;via the Disney Park Pass system and valid Theme Park ticket for the same Park on the same date are required for each person in your party ages 3 and up (limit one park per day). Reservations are limited and subject to availability.</p>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-02-01.jpg">
+			</figure>
+
+			<h4>FUN IN THE THEME PARKS</h4>
+			<p>Discover a fun mix of new and exciting experiences throughout <em>Walt Disney World</em> Resort when you add valid Theme Park Admission and secure a Theme Park reservation.</p>
+			<p><em>Magic Kingdom</em><sub>®</sub> Park</p>
+			<ul>
+				<li>Mickey Mouse, Minnie Mouse and their pals pop up throughout the day as they wave and welcome Guests along the parade route.</li>
+				<li>Explore iconic attractions and experiences in<em> Fantasyland</em><sub>®</sub>, including <em>Seven Dwarfs Mine Train</em>, a swaying family coaster ride that will have you racing through a diamond mine.</li>
+			</ul>
+			<p>EPCOT<sub>®</sub></p>
+			<ul>
+				<li>Take a taste tour across 6 continents and more at EPCOT<sub>®</sub> International Food &amp; Wine Festival, beginning July 15.</li>
+				<li>See Mickey Mouse, Minnie Mouse, Pluto and Goofy, all out sightseeing and waving to their pals on &ldquo;Mickey and Friends World Tour!&rdquo;</li>
+				<li>On <em>Soarin&rsquo; </em>Around the World take flight on a breezy, airborne adventure as you hang glide above the breathtaking sights with footage that give you incredible views of the wonders of the world!</li>
+			</ul>
+			<p><em>Disney&rsquo;s Hollywood Studios</em><sub>®</sub></p>
+			<ul>
+				<li>The wackiest, silliest train trip ever is ready to take you through the cartoon world where Mouse Rules apply and anything can happen aboard Mickey &amp; Minnie&rsquo;s Runaway Railway!</li>
+				<li>In <em>Star Wars</em>: Galaxy&rsquo;s Edge, set your coordinate for a galaxy far, far away and live your adventure with incredible experiences like <em>Star Wars</em>: Rise of the Resistance and <em>Millennium Falcon</em>: Smugglers Run.</li>
+			</ul>
+			<p><em>Disney&rsquo;s Animal Kingdom</em><sub>®</sub> Theme Park</p>
+			<ul>
+				<li>Journey to a distant world on <em>Pandora &ndash; The World of Avatar</em>, where floating mountains defy gravity. Where nature comes alive in a brilliant bioluminescent glow and mystical rivers flow. Where you can fly on the back of a mountain banshee and feel it breathing beneath you.</li>
+				<li>On <em>Kilimanjaro Safaris</em><sub>®</sub> set off in an open-air vehicle for a guided tour of an African savanna &ndash; and spot live animals along the way roaming free.</li>
+				<li>Donald Duck, Daisy Duck and Launchpad McQuack wave to everyone from their party boat, as Donald&rsquo;s Dino Boat Bash! Traverses the Discovery River.</li>
+			</ul>
+			
+			<h4>Important details to Know Before You Go</h4>
+			<p><strong>Health and well-being<br /></strong>There are new measures in place to promote the health and well-being of Guests and Cast Members. Learn about these enhanced measures through your travel advisor.</p>
+			<p><strong>Park reservations<br /></strong>All Guests with valid admission will be required to make a Theme Park reservation in advance of each entry, using <em>Disney Park Pass</em> service.</p>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-02-02.jpg">
+			</figure>
+
+			<p>The number of rooms allocated for this offer is limited. Savings based on the non-discounted price for the same room. Cannot be combined with any other discount or promotion. Additional per-adult charges may apply if there are more than 2 adults per room at Disney Value, Moderate and Deluxe Resorts, and Studios at Disney Deluxe Villa Resorts. Advance reservations required. Offer excludes the following room types: 3-bedroom Grand Villas, Cabins at Copper Creek Villas &amp; Cabins at Disney&rsquo;s Wilderness Lodge, Bungalows at Disney&rsquo;s Polynesian Villas &amp; Bungalows, and Disney&rsquo;s Art of Animation Resort &ndash; The Little Mermaid standard rooms. Displayed room savings are for select Disney Deluxe and Deluxe Villa Resorts; lower savings may be available at other select Resorts. Valid admission and a Park reservation are required for the same day to enjoy Theme Parks and special events and are not included in this offer. Resort hotel reopening dates are subject to change.</p>
+			<p>Contact your travel advisor to learn more.</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/advertorial-02.jpg</hero_src>
+		<hero_caption><![CDATA[STAY IN THE MAGIC]]></hero_caption>
+		<hero_credit><![CDATA[Walt Disney World<sub>®</sub>]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-02.jpg
+		</article_src>
+		<article_caption><![CDATA[STAY IN THE MAGIC]]></article_caption>
+		<article_credit><![CDATA[Walt Disney World<sub>®</sub>]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2106" id="03">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[03]]></id_article>
+		
+		<author><![CDATA[Oceania Cruises®]]></author>
+		<id_supplier><![CDATA[ocn]]></id_supplier>
+		
+		<title><![CDATA[Travel Enriches Our Lives]]></title>
+		<teaser><![CDATA[Oceania Cruises®]]></teaser>
+		<lead><![CDATA[
+			On a voyage with Oceania Cruises, each day offers the opportunity to experience the history, culture, art, and cuisine of a wondrous new destination.
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile" style="margin: 60px 0;">
+				<h4>Why I Travel</h4>
+				<p>Exploring exotic destinations and discovering new cultures are transformative experiences that travelers cherish their entire lives. Why do you love to travel? </p>
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/mPqcP1P9P9w?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</figure>
+
+			<h4>Destination Immersion</h4>
+			<p>As Destination Specialists, the experts at Oceania Cruises bring you the vast treasures of the world in a way that no one else can. Calling on over 450 spectacular ports around the globe, Oceania Cruises&rsquo; voyages invite you to discover the world as you&rsquo;ve always dreamed. Their unique itineraries are specifically designed to showcase the most fascinating destinations across the globe. As <em>Regatta</em>, <em>Insignia</em>, <em>Nautica</em>, <em>Sirena</em>, <em>Marina</em> and <em>Riviera</em> are all small and luxurious, each ship can call on the world&rsquo;s most desirable ports, from historic cities to modern meccas to charming seaside villages nestled along sparkling coastlines. Plus, with evening departures and more overnight stays, explore each fascinating location more fully.</p>
+			
+			<h4>Curated Travel Experiences</h4>
+			<p>Exploring exotic destinations and discovering new cultures are</p>
+			<p>transformative experiences that travelers cherish their entire</p>
+			<p>lives. On a voyage with Oceania Cruises, each day offers the exciting opportunity to experience the history, culture, art and cuisine of a wondrous new destination.</p>
+			<p>Oceania Cruises&rsquo; expert team of Destination Specialists curates imaginative destination experiences in more than 450 awe-inspiring ports around the globe, inviting you to experience the unique essence of each as you sail the world. Oceania Cruises&rsquo; shore excursions bring you original experiences designed for seasoned travelers seeking a slice of the local culture. Whether you love active outdoor adventures, explorations that delve into the region&rsquo;s fascinating history or experiences that offer a taste of the local cuisine and cultural traditions, their shore excursions will introduce you to the best of the destination. With over 3,000 tours and excursions offered, Oceania Cruises has excursions to fit every passion and travel style.</p>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-03-01.jpg">
+			</figure>
+
+			<h4>Curated Excursion Spotlight</h4>
+			<p>WELLNESS DISCOVERY TOUR BY AQUAMAR<br>
+			<strong>Mineral Bathing Experience &ndash; Melbourne, Australia</strong></p>
+			<ul>
+				<li>At the 120-year-old Hepburn Springs Bathhouse, let a spa coach help you select the treatment that meets your goals at this fully modernized venue.</li>
+				<li>Rejuvenate with a classic soak in the mineral rich waters and cooling pool or perhaps opt for a detoxifying Moroccan Hammam session.</li>
+				<li>Enjoy open access to the aromatherapy steam room and a creek-side pool for soaking al fresco.</li>
+				<li>Stop at a nearby restaurant for a healthy, light lunch on the way back to Melbourne pier.</li>
+			</ul>
+			
+			<h4>New Enhanced Health &amp; Safety Protocols</h4>
+			<p>SAFETY FOR THEIR GUESTS &amp; CREW<br /> SAFETY ABOARD THEIR SHIPS<br /> SAFETY ASHORE</p>
+			<p>Introducing Oceania Cruises&rsquo; SailSAFE&trade; Health and Safety Program. Oceania Cruises&rsquo; vision is to be the vacation of choice for everyone around the world. That&rsquo;s why they&rsquo;ve enhanced their commitment to health and safety with their SailSAFE program. To protect their guests, crew and communities they visit, Oceania Cruises has developed a robust and comprehensive health and safety strategy with new and enhanced protocols to create multiple layers of protection against COVID-19. Initial voyages will operate with fully vaccinated guests and crew, combined with preventative health and safety measures which they believe will provide a uniquely safe and healthy vacation experience. Oceania Cruises&rsquo; science-backed plan for a safe and healthy return to cruising was developed in conjunction with a diverse group of globally recognized experts and will be continuously evaluated using the latest science and technology.</p>
+			<p>For more information, contact your Travel Advisor today!</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/advertorial-03.jpg</hero_src>
+		<hero_caption><![CDATA[Travel Enriches Our Lives]]></hero_caption>
+		<hero_credit><![CDATA[Oceania Cruises®]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-03.jpg
+		</article_src>
+		<article_caption><![CDATA[Travel Enriches Our Lives]]></article_caption>
+		<article_credit><![CDATA[Oceania Cruises®]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2106" id="04">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[04]]></id_article>
+		
+		<author><![CDATA[Princess®]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+		
+		<title><![CDATA[Customize Dining with Dine My Way<sup>SM</sup>]]></title>
+		<teaser><![CDATA[Enjoy meals with your travel party when, how & where you want.]]></teaser>
+		<lead><![CDATA[
+			Princess  has reimagined dining at sea to be more personalized. Part of the MedallionClass  experience on all ships, Dine My Way<sup>SM</sup> will let you customize every aspect of mealtime, whether fitting in a formal dinner before a show or ordering food and drinks to your poolside perch. Reconnect with your favorite people on your next sailing while avoiding lines and wait times. Do your vacation your way
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile" style="margin: 60px 0;">
+				<h4>Why We Travel | Princess Cruises</h4>
+				<p>We were meant to travel. When we do, we get a greater understanding of the world. When we travel, we connect to new cultures, new people and new experiences. We believe to travel is to live. We hope you travel with us soon.</p>
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/cf2B48dzM0U?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-04-01.jpg">
+				<figcaption>
+					<h4>Dine when you want</h4>
+					Select dining times for main dining rooms and specialty restaurants. Request the same time each night if you prefer the same waitstaff.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-04-02.jpg">
+				<figcaption>
+					<h4>Dine how you want</h4>
+					Choose your dining pace – no dinnertime meltdowns! Request your table location. Share dietary preferences.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-04-03.jpg">
+				<figcaption>
+					<h4>Dine with who you want</h4>
+					Easily make reservations that include members of your travel party (or not!).
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile" style="margin: 40px 0;">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-04-04.jpg">
+				<figcaption>
+					<h4>Dine where you want</h4>
+					Take your pick of a variety of venues. Try local cuisine without leaving the ship – salmon in Alaska, street tacos in Mexico and jerk chicken in the Caribbean. Don't get up! Order food and drinks delivered anywhere on board with OceanNow .
+				</figcaption>
+			</figure>
+			
+			<p style="font-size: 12px;">&copy;2021, Princess Cruise Lines, Ltd. Ships of Bermudan and British registry.</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/advertorial-04.jpg</hero_src>
+		<hero_caption><![CDATA[Customize Dining with Dine My Way<sup>SM</sup>]]></hero_caption>
+		<hero_credit><![CDATA[Princess®]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-04.jpg
+		</article_src>
+		<article_caption><![CDATA[Customize Dining with Dine My Way<sup>SM</sup>]]></article_caption>
+		<article_credit><![CDATA[Princess®]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

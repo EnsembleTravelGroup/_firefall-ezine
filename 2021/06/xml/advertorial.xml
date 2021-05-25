@@ -7,7 +7,7 @@
 		<dir_month><![CDATA[06]]></dir_month>
 		<id_article><![CDATA[01]]></id_article>
 		
-		<author><![CDATA[Cunard]]></author>
+		<author><![CDATA[Cunard<sup>&reg;</sup>]]></author>
 		<id_supplier><![CDATA[cun]]></id_supplier>
 		
 		<title><![CDATA[We Aspire to Deliver an Unmatched Joyful Vacation for You! ]]></title>
@@ -16,7 +16,7 @@
 		<body><![CDATA[
 			<figure class="article-tile" style="margin: 60px 0;">
 				<h4>Discover your inspiration </h4>
-				<p>Be inspired, by Cunard and start dreaming of your next adventure.</p>
+				<p>Be inspired by Cunard<sup>&reg;</sup> and start dreaming of your next adventure.</p>
 				<iframe width="100%" height="500" src="https://www.youtube.com/embed/msrDySpxgrs?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</figure>
 
@@ -27,7 +27,7 @@
 			<ul>
 				<li>Sailings on Queen Victoria commence September 10, 2021 to the Norwegian Fjords.</li>
 				<li>Queen Elizabeth&rsquo;s fall sailings start October 18, 2021 from Barcelona to Singapore.</li>
-				<li>Queen Mary 2&rsquo;s themed Transatlantic Crossing leaves Southampton November 14, 2021.</li>
+				<li>Queen Mary 2&rsquo;s themed Transatlantic Crossing leaves London November 14, 2021.</li>
 			</ul>
 
 			<figure class="article-tile" style="margin: 40px 0;">
@@ -36,15 +36,15 @@
 
 			<h4>Now is the time to make those plans! Explore the world in style.</h4>
 			<p>We sail to a world of iconic destinations and present you with an enticing selection of inspiring journeys, from two-night short breaks and two weeks in the Mediterranean to our legendary Transatlantic Crossings and captivating World Voyages.</p>
-			<p>Your choice of three magnificent ships comprises Queen Elizabeth&reg;, Queen Victoria&reg; and Queen Mary 2&reg;, our flagship, recognized as the only ocean liner of our time. Grand in scale and refined down to the smallest detail, each is a world unto herself. A pace of discovery and relaxation, and the perfect setting from which to visit your favorite destinations or explore new lands.</p>
+			<p>We welcome you aboard your choice among three magnificent ships, Queen Elizabeth<sup>&reg;</sup>, Queen Victoria<sup>&reg;</sup> and Queen Mary 2<sup>&reg;</sup>, our flagship, recognized as the only ocean liner of our time. Grand in scale and refined down to the smallest detail, each is a world unto herself. A place of discovery and relaxation, and the perfect setting from which to visit your favorite destinations or explore new lands.</p>
 			<p>It&rsquo;s with great anticipation that we await the fourth ship to join our illustrious fleet in 2023. The steel work has already begun and as she takes shape, she will be the 249th ship to fly the Cunard flag. It will be a momentous occasion, when for the first time in over 20 years, we will have four ships sailing simultaneously.</p>
 
 			<figure class="article-tile" style="margin: 40px 0;">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-01-02.jpg">
 			</figure>
 
-			<p>When you are traveling on a Cunard ship you always have the freedom to do as much or as little as you please, it&rsquo;s completely up to you. We present you with the entire world &ndash; all you need to do is simply decide where you would like us to take you.</p>
-			<p>If this is the first time you sail with Cunard, prepare yourself for a treat. The first difference you will notice is the surprising amount of space. From broad open decks to beautiful Grand Lobbies, our ships always offer somewhere to suit the way you feel: whether it is a peaceful place or a lively activity.</p>
+			<p>When you are traveling on a Cunard ship, you always have the freedom to do as much or as little as you please, it&rsquo;s completely up to you. We present you with the entire world &ndash; all you need to do is simply decide where you would like us to take you.</p>
+			<p>If this is the first time you are sailing with Cunard, prepare yourself for a treat. The first difference you will notice is the surprising amount of space. From broad open decks to beautiful Grand Lobbies, our ships always offer somewhere to suit the way you feel: whether it is a peaceful place or a lively activity.</p>
 			<p>It is your world to savor in your own way. You set the pace of your Cunard vacation; we offer the balance of time spent on board and ashore. Where possible, we always ensure a sea day after you set sail and the day before you disembark so you feel refreshed for the adventures to come.</p>
 			<p>Escape into a world of possibilities, a world that revolves around you.</p>
 		]]></body>
@@ -163,11 +163,11 @@
 		<dir_month><![CDATA[06]]></dir_month>
 		<id_article><![CDATA[03]]></id_article>
 		
-		<author><![CDATA[Oceania Cruises®]]></author>
+		<author><![CDATA[Oceania Cruises<sup>&reg;</sup>]]></author>
 		<id_supplier><![CDATA[ocn]]></id_supplier>
 		
 		<title><![CDATA[Travel Enriches Our Lives]]></title>
-		<teaser><![CDATA[Oceania Cruises®]]></teaser>
+		<teaser><![CDATA[Oceania Cruises<sup>&reg;</sup>]]></teaser>
 		<lead><![CDATA[
 			On a voyage with Oceania Cruises, each day offers the opportunity to experience the history, culture, art, and cuisine of a wondrous new destination.
 		]]></lead>
@@ -214,11 +214,11 @@
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/advertorial-03.jpg</hero_src>
 		<hero_caption><![CDATA[Travel Enriches Our Lives]]></hero_caption>
-		<hero_credit><![CDATA[Oceania Cruises®]]></hero_credit>
+		<hero_credit><![CDATA[Oceania Cruises<sup>&reg;</sup>]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-03.jpg
 		</article_src>
 		<article_caption><![CDATA[Travel Enriches Our Lives]]></article_caption>
-		<article_credit><![CDATA[Oceania Cruises®]]></article_credit>
+		<article_credit><![CDATA[Oceania Cruises<sup>&reg;</sup>]]></article_credit>
 		
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
@@ -232,7 +232,7 @@
 		<dir_month><![CDATA[06]]></dir_month>
 		<id_article><![CDATA[04]]></id_article>
 		
-		<author><![CDATA[Princess®]]></author>
+		<author><![CDATA[Princess<sup>&reg;</sup>]]></author>
 		<id_supplier><![CDATA[pri]]></id_supplier>
 		
 		<title><![CDATA[Customize Dining with Dine My Way&#8480; Reservations]]></title>
@@ -286,11 +286,11 @@
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/advertorial-04.jpg</hero_src>
 		<hero_caption><![CDATA[Customize Dining with Dine My Way&#8480;]]></hero_caption>
-		<hero_credit><![CDATA[Princess®]]></hero_credit>
+		<hero_credit><![CDATA[Princess<sup>&reg;</sup>]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/advertorial-04.jpg
 		</article_src>
 		<article_caption><![CDATA[Customize Dining with Dine My Way&#8480;]]></article_caption>
-		<article_credit><![CDATA[Princess®]]></article_credit>
+		<article_credit><![CDATA[Princess<sup>&reg;</sup>]]></article_credit>
 		
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2106" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[Celebrity]]></author>
+		<id_supplier><![CDATA[cel]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Eco-luxurious Journeys Await in The Galapagos Islands]]></title>
+		<teaser><![CDATA[
+			articleTeaser
+		]]></teaser>
+		<lead><![CDATA[
+			Those who travel for adventure will feel like Darwin himself when they discover the Galapagos Islands with Celebrity Cruises—except that no trip was ever quite so luxurious.
+		]]></lead>
+		<body><![CDATA[
+			<p>With Celebrity Flora® &mdash; the 100-guest all-suite mega yacht the creature comforts on board are as extraordinary as the creatures found on shore. Vacations include shore excursions, gratuities, Personal Suite Attendants, drinks, meals, and more.</p>
+			<p>Explorers come face to face with giant tortoises, snorkel alongside playful sea lions, wade among penguins, and watch neon fish. You view it all through the eyes of experts like science advisor Ellen Prager, Ph.D, an acclaimed marine biologist and author, who curates the enriching presentations and excursions. Onboard teams have a certified naturalist for every 9 guests.</p>
+			<p>Sailings include at least two shore excursions per day&mdash;each the adventure of a lifetime&mdash;and joining is effortless, since custom Novurania yacht tenders whisk you from ship to shore in style.</p>
+			<p>Optional Galapagos Glamping allows you to doze under the stars in comfy cabanas atop the ship. Stargaze with naturalists, sighting constellations in both the Northern and Southern hemispheres, then awaken to the aromas of a private breakfast.</p>
+			<p>Committed to corporate responsibility, Celebrity sources fresh seafood from the local fishing community and has opened an art gallery to support special-needs kids, sponsored a summer camp, and rebuilt a park. Guests have helped replant 50,000 native trees.</p>
+			<p>Celebrity Flora has ecofriendly systems such as dynamic positioning to protect the seabed, silicone paint to glide with less fuel, and solar panels to generate electricity.</p>
+			<p>All-inclusive packages of 10&ndash;11 nights expand Galapagos vacations to include historic Quito, and 16-night packages add vibrant Lima and mysterious Machu Picchu&mdash;complete with air and ground transfers, top hotels, meals, drinks, and tours.</p>
+			<p>We encourage people to sail beyond their perceptions and expand their horizons. Our award-winning ships are impeccably designed, serve up exquisitely prepared culinary experiences, and offer The World at Your Service in more than 300 destinations on all seven continents.</p>
+			<p>The moment you step aboard a Celebrity ship, you&rsquo;ll notice a difference. We brought together teams of world-class architects, interior designers and stylists to create a showcase of the most inspiring spaces at sea, custom designed just for you.</p>
+			<p>The proof is in the details. Revel in stylish design. Sink into exquisite bedding. Bask in the breathtaking views. Delight in the distinctive dining with locally sourced menus crafted by our Michelin-starred chef. And be indulged by our seamless&mdash;never intrusive&mdash;service. Our array of luxurious accommodations has been artfully created to make your stay warm and welcoming throughout the Galapagos Islands.</p>
+		]]></body>
+		
+		<tab_group id_supplier="cel">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>Celebrity Flora, is the first ship of its kind to be designed and built specifically with this destination in mind. Every space, including the all-suites accommodations, features our innovative outward-facing concept, so the destination is the center of attention at every turn. By using natural materials inspired by the islands, we&rsquo;ve created a ship that&rsquo;s a true complement to the destination and merges seamlessly with the surroundings to create a greater connection between you, the ocean, and the breathtaking islands.</p>
+					<p>In the spirit of continuous improvement and innovation, and to ensure that we protect the islands and the pristine waters that surround them, Celebrity Flora was designed with every state-of-the-art option and latest technology&mdash;from a dynamic positioning system that enables the ship to stay on station without the use of anchors, helping protect the seas, to solar panels that supplement electricity, helping reduce emissions. The result is one of the most eco-friendly and environmentally safe ships sailing the planet.</p>
+					<p>Our visionary outward-facing concept maximizes your sense of being in the destination&mdash;even when you&rsquo;re on board. The indoor and outdoor spaces on Celebrity Flora are large sanctuaries that showcase endless ocean views and the extraordinary Galapagos Islands. These spaces are also designed to educate, inform, and easily connect you to the naturalists, other guests, and islands themselves. There are few places in the world where this innovative concept would benefit travelers more, and we&rsquo;re proud to present them to you.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>Exhilarating days of discovering the Galapagos deserve an equally amazing place to recharge, as our modern luxury accommodations have been artfully created to transform your stay into an experience unlike any other at sea.</p>
+					<p>Aboard Celebrity Flora, you&rsquo;ll indulge in the most luxurious veranda suites&mdash;yes, they&rsquo;re all suites&mdash;in the Galapagos, with numerous design features and amenities to help you unwind each evening. Control the air, blinds, lighting, even the Infinite Veranda, all from a touch screen. Receive seamless service from your Personal Suite Attendant, helping you unpack, stocking the minibar, and bringing your morning coffee just the way you like it. Enjoy the welcome bottle of champagne, king-size beds from our Cashmere Collection bedding, plush cotton bathrobes, unlimited Wi-Fi, 24-hour room service, in-suite water filtration, and daily delectables for those afternoon cravings. One thing is certain: Your all-inclusive stay in these primitive islands will be anything but primitive.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>We know the daily excursions, activity, and excitement build up a healthy appetite. Don&rsquo;t worry, you know us. As you&rsquo;d come to expect from a Celebrity Cruises vacation, we take our culinary expertise very seriously. Our dedication to providing you the best possible dining on board knows no boundaries or borders (just like the innovative spaces on board Celebrity Flora). In the Galapagos Islands, we feature menus crafted by our Michelin-starred chef. He&rsquo;s dedicated to creating an authentic dining program by sourcing the freshest, local ingredients and using the highest quality, sustainable seafood available. All this means you&rsquo;ll have a culinary journey in the Galapagos like no one else provides.</p>
+					<p>With two dining venues and other lite bites, refreshments, and room service available, you&rsquo;ll have every opportunity to satisfy your cravings on Celebrity Flora. The main restaurant, Seaside Restaurant on Deck 4, serves breakfast, lunch and dinner, with a dinner menu that offers Celebrity Signature dishes every night throughout your cruise as well as Ecuadorian inspired dishes that change nightly. The second restaurant on board Celebrity Flora is Ocean Grill, an outdoor casual dining space that offers panoramic views during the day and stunning, starlit skies at night.</p>
+					<p>To accompany all the delicious dishes you&rsquo;ll find on board, you&rsquo;ll also find a wide variety of beverages to quench your thirst&mdash;or thrill your palate.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>With our all-inclusive activities, adventure is yours for the taking, and our active snorkeling and shore excursions really bring this archipelago to life. One day, you&rsquo;ll find yourself hiking from white sand beaches to black lava flows. Another day, you&rsquo;re underwater, snorkeling among the sea turtles, marine iguanas, and sea lions. Each excursion will be the adventure of a lifetime.</p>
+					<p><strong>Hiking<br /></strong>Our naturalists will guide you as close as eight feet from the famed Galapagos tortoises. You&rsquo;ll traverse volcanic terrain and find yourself perched high atop paths that offer world-class views of the islands. From short walks to long hikes, plenty of options are afoot.</p>
+					<p><strong>Beach &amp; Snorkel Adventures<br /></strong>Teeming with life, these protected waters hold treasures both above and below the surface. Wade out through the penguins, marine iguanas, and sea lions, into the realm of dolphins, rays, sea turtles, and colorful tropical fish. Join the advanced snorkeling tour for an even deeper experience.</p>
+					<p><strong>Kayaking<br /></strong>Paddle through paradise in a kayak that&rsquo;s great for sightseeing in the most nonintrusive, eco-friendly kind of way. Plus, you&rsquo;ll get some exercise. Along the secluded shores, watch for marine iguanas, eagle rays, sea lions, dolphins, penguins, and other welcoming wildlife.</p>
+					<p><strong>Coastal Explorations<br /></strong>Safely explore hard-to-reach areas right offshore from the security and comfort of our tenders. This is the perfect way to get closer than ever to these natural wonders, from marine iguanas perched on wave-drenched rocks to sea lions sleeping on the shore.</p>
+					<p><strong>Onboard Galapagos Glamping<br /></strong>Galapagos Glamping is the first sunset-to-sunrise experience of its kind in the Galapagos Islands. Enjoy an exclusive and delectable dinner featuring campfire-themed delights and cocktails. Experience a naturalist-guided stargazing session under the constellations of both the Northern and Southern Hemispheres, as you sail along the equator. Sleep under the stars in a cabana that transforms into a comfortable double bed. Wake up to the sunrise and a private breakfast before you leave for your daily island adventures.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="05">
+				<id><![CDATA[05]]></id>
+				<title><![CDATA[Family]]></title> <!-- Famille -->
+				<content><![CDATA[
+					<p>For those eager to share their love of the natural world with their family, our Galapagos expeditions are designed to provide a safe and rewarding experience for children and adults.</p>
+					<p>We ensure your family&rsquo;s comfort and safety even in the most remote locations by piloting only the best cruise ships of their class, and utilizing the most modern and well-equipped ground transport available. And with our varied itineraries, passengers of all ages will enjoy an incredible vacation experience in the Galapagos.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01-family.jpg</tab_src>
+				<tab_caption><![CDATA[Family]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>Your experience in the Galapagos Islands is so much more than a typical cruise- smaller, more intimate, a gathering of people bound by their fascination with ecology and discovery. You&rsquo;ll find elegant d&eacute;cor, large decks where you can gather and gaze at sunrises and sunsets, and other relaxing venues. Of course, our unique sense of adventure infuses every corner of these ships. No matter which you choose, it will have everything to make your modern exploration anything but rugged.</p>
+					<p>For over 17 years, we&rsquo;ve set the standard for luxurious suite experiences in this unique corner of the world. With an attendant to take care of your every need and premium amenities that make your suite a sanctuary all its own, we indulge you at every turn.</p>
+					<p>We recently introduced an enhanced list of suite services and amenities, so every suite guest can indulge with even more of the premium services and amenities that you have come to expect from Celebrity. We&rsquo;ve thoughtfully included everything you need to help you gear up for your adventures shoreside, including a complimentary rain poncho and backpack and marine binoculars to help get you an even closer look at the locals during your cruise. We&rsquo;ve also included new services and amenities to help you unwind on board like upgraded, premium bathrobes, luxurious biodegradable bath amenities from Kuno, a local business, and in-suite full dinner service for those nights you prefer an intimate dinner in your room.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<video>
+				<title><![CDATA[Luxury Galapagos Islands Cruises Aboard Celebrity Flora]]></title>
+				<content><![CDATA[
+					<p>Celebrity Flora merges seamlessly with its environment, so you'll experience a true sense of being in the destination instead of just visiting it.</p>
+				]]></content>
+				<embed><![CDATA[
+					<iframe width="100%" src="https://www.youtube.com/embed/DKqj_G1iTa8?rel=0" style="width: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				]]></embed>
+			</video>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/06/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/06/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

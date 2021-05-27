@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2106" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[June 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Isabelle Labrosse]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[5 Countries Leading the Way in Sustainable Travel]]></title>
+		<teaser><![CDATA[
+			Travel sustainably by choosing a destination with values reflective of your own.
+		]]></teaser>
+		<lead><![CDATA[
+			As we begin feeling more hopeful about going back to some sort of &ldquo;normalcy,&rdquo; the past year has been an opportunity to gain a new perspective on the world and rethink what is most valued to us, from supporting local businesses to establishing meaningful connections with people around us.
+		]]></lead>
+		<body><![CDATA[
+			<p>As destinations worldwide start to reopen their borders to international travelers, many of us are looking to make a conscious effort to live by these values not only at home, but also in our travels. We can start by simply choosing a destination with values reflective of our own &ndash; one that promotes sustainability to help its people, nature, economy and culture thrive not only now, but in the future as well.</p>
+			<p>These five countries lead by example in using tourism to pursue social wellbeing, environmental protection, and cultural preservation to the benefit of their local communities.</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Sweden]]></title>
+				<content><![CDATA[
+				<p>A leader in gender equality with a focus on social innovation and a pioneer in renewable energy with a goal to achieve net zero emissions by 2045, it&rsquo;s no surprise Sweden tops Euromonitor International&rsquo;s 2020 Sustainable Travel Index. The birthplace of climate activist Greta Thunberg is proof sustainability can enhance the travel experience, with smart mobility infrastructure, award-winning Nordic eco-chic design, and the <em>Allemansr&auml;tt</em> (Right of Public Access) giving travelers and locals the right to freely roam the Swedish countryside &ndash; as long as you leave it the way you found it. And, if that wasn&rsquo;t enough, the country&rsquo;s second-largest city, Gothenburg, is also the world&rsquo;s most sustainable destination, with 2,950 square feet of green space per inhabitant, a comprehensive bike path network and plenty of locally sourced, organic, vegan and vegetarian food options.</p>
+				<p><strong>Did you know?</strong> Close to 80% of Stockholm hotels are accredited for their sustainability practices by third-party certifying bodies, according to Visit Stockholm.</p>
+				<p style="font-size: 12px;">Image Credit: Patrik Svedberg/imagebank.sweden.se</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Austria]]></title>
+				<content><![CDATA[
+				<p>A top country for social sustainability, Austria relies on creativity to bring more responsible practices into daily life. This rings especially true in the country&rsquo;s capital, Vienna, where shops and restaurants have their sights set firmly on social and environmental awareness and a more local approach to doing business. From poolside fashion made from recycled fishing nets and decommissioned subway escalator steps reimagined as cool bench seating, to mushrooms growing on used coffee grounds collected from Viennese caf&eacute;s and a significant winegrowing industry within the city limits, Vienna truly is a forerunner in urban sustainability. It has also been recognized for a consecutive ten years as the world&rsquo;s most livable city, and both citizens and visitors can enjoy the Viennese quality of life.</p>
+				<p><strong>Did you know?</strong> Austria is home to an airline operating net zero flights since 2019.</p>
+				<p style="font-size: 12px;">Image Credit: WienTourismus/Peter Rigaud</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Chile]]></title>
+				<content><![CDATA[
+				<p>When thinking of a green Latin American country, Costa Rica comes to mind for many of us. But, there&rsquo;s a lot to be said about Chile&rsquo;s efforts in sustainable lodging. In recent years, bespoke eco-lodges have spruced up in many regions of the country, including jaw-dropping Patagonia, with architecture that draws from the surrounding scenery, protects the flora and fauna, and pays homage to the local history. While benefiting the local communities and economies, these eco-lodges also allow travelers to experience a sustainable stay without compromising on luxury. andBeyond&rsquo;s Vira Vira lodge is among the group. Located on an organic farm in the Chilean lake district, the homeland of the Mapuche people, the 32-acre forested estate boasts six suites and 12 villas with vibrant wall tapestries, hand-woven textiles and traditional artefacts, as well as an on-site vegetable garden and boutique cheese factory.</p>
+				<p><strong>Did you know?</strong> More than 75 wineries are certified by the Wines of Chile Sustainability Code, making Chile one of the most sustainable winemaking countries in the world.</p>
+				<p style="font-size: 12px;">Image Credit: andBeyond</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Switzerland]]></title>
+				<content><![CDATA[
+				<p>Known for its natural beauty, lakes, and mountains, Switzerland has sustainability rooted deeply in its DNA, and it&rsquo;s easy to see why. To preserve this untouched nature for generations to come, the country has recently adopted Swisstainable, a new experience-centric approach to tourism that focuses on enjoying nature first-hand, delving into the local culture in an authentic way, consuming regional products, and undertaking longer, deeper journeys. This highly diverse country lends itself perfectly to low environmental impact discoveries. Think hiking Switzerland&rsquo;s Grand Canyon, the Creux du Van, trekking across Aletsch Glacier &ndash; the longest glacier in the Alps &ndash;, cycling the 235-mile Mittelland Route from the Bodensee to Lake L&eacute;man, or tasting the &ldquo;0-Kilometer Menu&rdquo; at Restaurant M&uuml;hle, with ingredients grown on the restaurant&rsquo;s farm.</p>
+				<p><strong>Did you know?</strong> Tennis star Roger Federer has partnered with Switzerland Tourism to share the best of his home country. Among other places, he has great memories hiking in Appenzell with his parents.</p>
+				<p style="font-size: 12px;">Image Credit: Switzerland Tourism</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Ecuador]]></title>
+				<content><![CDATA[
+				<p>One of the most biodiverse countries on the planet, Ecuador is making continuous efforts toward sustainable tourism and nature conservancy, with the Right to Nature protected by constitution. Local tourism entrepreneurs are leading the way in creating awareness, attracting funds to protect the environment and transitioning to business models that foster long-term gain. Sustainability is particularly critical in the Gal&aacute;pagos where 97% of the archipelago is protected within a national park. Visitors wanting to experience the raw beauty of this one-of-a-kind place are encouraged to travel with accredited, local operators committed to preserving resources, efficiently managing waste, and paying fair wages to their employees.</p>
+				<p><strong>Did you know?</strong> You can adopt a Gal&aacute;pagos giant tortoise &ndash; who can survive a year without food or water! &ndash; to help protect the species.</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[5 Countries Leading the Way in Sustainable Travel]]></hero_caption>
+		<hero_credit><![CDATA[Isabelle Labrosse]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/06/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[5 Countries Leading the Way in Sustainable Travel]]></article_caption>
+		<article_credit><![CDATA[Isabelle Labrosse]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/06/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="south-america"><![CDATA[south-america]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacation"><![CDATA[family-vacation]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="voluntourism"><![CDATA[voluntourism]]></tag>
+		</tags>
+	</article>
+</root>

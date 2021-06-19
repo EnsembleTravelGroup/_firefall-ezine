@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2107">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[July 2021]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		
+		<author><![CDATA[Celebrity Cruises]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Galapagos: Explore the Islands that Time Forgot - But You Never Will]]></title>
+		<teaser><![CDATA[
+			Get face-to-face with the &ldquo;locals&rdquo; of this archipelago.
+		]]></teaser>
+		<lead><![CDATA[
+			This year, you deserve an escape for the ages. So, reward yourself with an adventure that's been millions of years in the making &mdash; the Galapagos Islands with Celebrity Cruises<sup>&reg;</sup>, sailing again this summer.
+		]]></lead>
+		<body><![CDATA[
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="853" height="480" src="https://www.youtube.com/embed/DKqj_G1iTa8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</figure>
+			</div>
+			
+			<br/>
+			<br/>
+
+			<p>You&rsquo;ll feel like Charles Darwin himself on this evolutionary journey of discovery. Get face to face with Galapagos giant tortoises. Swim alongside playful sea lions. Snorkel with neon fish and wade among antic penguins &mdash; yes, penguins in the tropics.</p>
+			<p>Evolved in isolation over millions of years, the locals here don't fear the humans, so you'll see them up close and natural, and the landscapes are as exotic as the wildlife. One day, you're hiking white sand beaches. The next, black lava flows. Diverse terrains range from the young Bartolom&eacute; Island, an otherworldly moonscape of spatter cones and pinnacle rock, to the older Espa&ntilde;ola Island, the only place that waved albatross gather to breed.</p>
+			<p>You'll see it all through the eyes of experts, since you'll be guided in small groups by certified naturalists. Every shore excursion will be the adventure of a lifetime, and two are included each day.</p>
+			<p>In fact, everything you want or need is included on these award-winning vacations. All-inclusive packages give you globally inspired meals and locally sourced ingredients with menus by a Michelin-starred chef, plus drinks including wine and spirits, unlimited Wi-Fi, shore excursions, tips, transfers, luxury hotels, guided tours, and flights in South America. It&rsquo;s all covered, making the Celebrity experience completely seamless.</p>
+			<p>Three distinctive ships include the intimate 16-guest Celebrity Xploration<sup>&reg;</sup>, the popular 48-guest Celebrity Xpedition<sup>&reg;</sup>, and Celebrity's newest Galapagos ship, the luxurious 100-guest mega yacht Celebrity Flora<sup>&reg;</sup>, offering creature comforts on board as extraordinary as the creatures found on shore.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/07/article/spotlight-01.jpg">
+			</figure>
+
+			<p>Designed especially for the Galapagos, Celebrity Flora exhibits a modern, outward-facing design concept in both public spaces and suites &mdash; yes, every stateroom is a suite &mdash; to keep this wondrous destination front and center. Voted Best Small Ship in the Cruise Critic Cruisers' Choice Awards, Flora offers the most luxurious accommodations sailing here. Personal Suite Attendants help you with unpacking &mdash; and whatever else you need &mdash; and design features include room automation to control the lighting, air-conditioning, curtains, and Infinite Veranda<sup>SM</sup>.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/07/article/spotlight-02.jpg">
+			</figure>
+
+			<p>The ship even recreates the nostalgia of camping &mdash; now in stylish cabanas atop the ship &mdash; called Galapagos Glamping. With this optional experience, you'll sip campfire-inspired cocktails, savor exclusive meals, and taste wines paired perfectly for &ldquo;roughing it.&rdquo; When the sun sets, the naturalists lead the campers in stargazing, and when the sun rises again, you wake to the heady aromas of a stellar breakfast.</p>
+			<p>Several new technologies work to safeguard the pristine environment here. Celebrity designed Flora with solar panels to generate electricity, dynamic positioning to protect the seabed from anchors, silicone paint to glide with less fuel, and a reverse osmosis system to make fresh water. Such investments have created one of the most eco-friendly ships afloat and helped assure that future generations get to experience this magical place.</p>
+			<p>To support local communities, Celebrity sources its fresh seafood from local fishermen and its pillow treats from local chocolatiers. The company partners with Galapagos National Park and several community organizations, and its guests have helped plant more than 50,000 indigenous trees.</p>
+			<p>With Celebrity's packages of 10&ndash;11 nights, you'll explore high-altitude Quito, Ecuador, then be escorted on a private flight to the Galapagos. The broader 16-night package adds historic Lima, seaside capital of Peru; charming Cuzco, ancient capital of the Inca; and mystical Machu Picchu, perched high in the Andes Mountains.</p>
+			<p>Celebrity Flora offers the most luxurious accommodations sailing in the Galapagos Islands today. Contact your Ensemble travel advisor to join us onboard.</p>
+			
+			<br/>
+			
+			<p style="font-style: 12px;">&copy;2021 Celebrity Cruises Inc. Ships&rsquo; registry: Ecuador. <br/>
+			Image/Video Credit: Celebrity Cruises</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/07/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Galapagos: Explore the Islands that Time Forgot - But You Never Will]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Galapagos: Explore the Islands that Time Forgot - But You Never Will]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/07/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="south-america"><![CDATA[south-america]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="ocean-cruising"><![CDATA[ocean-cruising]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="voluntourism"><![CDATA[voluntourism]]></tag>
+		</tags>
+	</article>
+</root>

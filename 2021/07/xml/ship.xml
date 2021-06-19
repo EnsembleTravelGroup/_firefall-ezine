@@ -90,6 +90,12 @@
 				<tab_caption><![CDATA[Services]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
+			
+			<video>
+				<title><![CDATA[]]></title>
+				<content><![CDATA[]]></content>
+				<embed><![CDATA[]]></embed>
+			</video>
 		</tab_group>
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/07/hero/ship-01.jpg</hero_src>

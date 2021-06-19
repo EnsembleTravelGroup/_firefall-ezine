@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2107" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[July 2021]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[Atlas Ocean Voyages]]></author>
+		<id_supplier><![CDATA[ats]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Offering the Travel Experience You Deserve Aboard World Navigator]]></title>
+		<teaser><![CDATA[
+			Combining relaxed elegance with invigorating experiences, Atlas Ocean Voyages finds the perfect balance to a holistic approach to life on board. It&rsquo;s all about creating exceptional moments amid a stimulating atmosphere that&rsquo;s made to connect with like-spirited explorers. Indulge your wanderlust and curiosity on a luxe-adventure voyage.
+		]]></teaser>
+		<lead><![CDATA[
+			You deserve to experience travel the way you think you should, and that&rsquo;s what Atlas Ocean Voyages&rsquo; luxe-adventure expeditions are all about. Taking you to new perspectives of renowned destinations and remote ports aboard the brand-new <em>World Navigator</em>, you&rsquo;re sure to find the adventure that&rsquo;s made just for you. And it all happens in casual elegance with exceptional experiences.
+		]]></lead>
+		<body><![CDATA[
+			<p></p>
+		]]></body>
+		
+		<tab_group id_supplier="ats">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>With fewer than 200 guests on board, Atlas&rsquo; small, expedition-style ship, <em>World Navigator</em>, allows for more personal experiences amid fewer crowds. Her small size also allows us to bring you closer to your destinations, with opportunities to navigate smaller waterways and dock in smaller ports where you can disembark and hit the ground running.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>Exclusively offering only Balcony and Suite accommodations, Atlas Ocean Voyages creates a simply elegant atmosphere for your home at sea. With premium L&rsquo;OCCITANE amenities in your private marble bathroom, a queen-size bed with comfortable linens, expansive ocean views and more, it&rsquo;s the perfect way to relax and indulge in between adventures.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>On board <em>World Navigator</em> you can experience a culinary adventure with 6 dining options. 7-AFT Grille features Jospering charcoal grille favorites for lunch and dinner. The main dining room, Porto, offers indoor and al fresco dining for breakfast, lunch and dinner. Here you can also experience Alma, a Portuguese-inspired menu with soul food dishes that remind you of grandma&rsquo;s cooking, available for dinner. At The Dome Observation Lounge, enjoy a late, light lunch along with 270-degree views. For a grab-and-go breakfast or midday snack, check out Paula&rsquo;s Pantry. And finally, in-room dining is available for all Balcony and Suite accommodations with items from Porto&rsquo;s menu.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>Engage in a stimulating and uniquely curated entertainment experience as well as enrichment programs at Dom Henrique Theater. Sitting just 30 feet above the water, Water&rsquo;s Edge brings you up close with the environment and wildlife and includes heated seating. At Atlas Lounge, you&rsquo;ll find craft cocktails and more in an elegant setting that creates an atmosphere made for connecting with like-spirited explorers. Maintain a holistic lifestyle while at sea at the Fitness Studio and rejuvenate with signature treatments and amenities from L&rsquo;OCCITANE en Provence at SeaSpa by L&rsquo;OCCITANE, the brand&rsquo;s first-ever luxury spa at sea.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="05">
+				<id><![CDATA[05]]></id>
+				<title><![CDATA[Family]]></title> <!-- Famille -->
+				<content><![CDATA[
+					<p>Atlas Ocean Voyages&rsquo; journeys are too grand, too important and too life-changing not to share with the younger members of your family. We are pleased to offer accommodations for kids eight years and over exclusively on our Antarctica adventures; two years and over in all other destinations.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01-family.jpg</tab_src>
+				<tab_caption><![CDATA[Family]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>Our promise for a journey that&rsquo;s All Inclusive All The Way encompasses everything, including roundtrip commercial airfare, a choice of complimentary land excursions in every port, unlimited premium pours, prepaid gratuities, friendly butler services in suites and so much more. It&rsquo;s how we ensure you enjoy a comprehensive vacation without ever worrying about the details yourself.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/07/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

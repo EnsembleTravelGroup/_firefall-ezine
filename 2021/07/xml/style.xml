@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2107">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[July 2021]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		
+		<author><![CDATA[AMResorts]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Celebrate in Tropical Luxury]]></title>
+		<teaser><![CDATA[
+			Celebrate your love the luxurious way.
+		]]></teaser>
+		<lead><![CDATA[
+			Celebrate your love the luxurious way with a backdrop of pristine, sandy beaches and breathtaking ocean views. When traveling to celebrate your wedding day, honeymoon, or to renew your vows, AMResort properties are perfect for an intimate celebration with just your spouse, close friends, or a multi-generational family affair, offering a variety of cuisine, activities and friendly service fit for all travelers.
+		]]></lead>
+		<body><![CDATA[
+			<p>When planning the perfect ceremony and reception spot, look no further, as the brand&rsquo;s resorts offer a range of options from beachfront to garden, ballroom to terrace. With locations in Cancun, Los Cabos, and Puerto Vallarta and more, no matter what experience you&rsquo;re looking for, it can be found.</p>
+			<p>Revel in <em>Unlimited-Luxury&reg;, </em>including gourmet meals, top-shelf spirits, 24-hour room and concierge service, endless daytime activities, and live nightly entertainment. Up the romantic ante and include a trip to any of the resorts&rsquo; world-class spas in your itinerary. Get those last-minute jitters out with a pre-wedding massage or kick off your honeymoon in style with a romantic couple&rsquo;s treatment.</p>
+			<p>Each resort offers a variety of packages to choose from to make planning your destination wedding, honeymoon, or vow renewal a relaxing and romantic affair.</p>
+			<h4>Unforgettable Weddings</h4>
+			<p>Brides and grooms-to-be can plan the wedding destination of their dreams, choosing from three distinct wedding packages catering to taste and budget, which include a dedicated wedding coordinator who will help you plan and handle every detail so you can focus on enjoying your big day. The packages also include bouquet(s) and boutonniere(s) for the wedding couple, preparation of the couple&rsquo;s wedding day attire, ceremony set up, floral arrangements, cake, sparkling wine, romantic turndown service with sparkling wine and chocolate-covered strawberries, and more. Couples will also enjoy package inclusions ranging from complimentary makeup and hair styling, a couples&rsquo; massage treatment, a private dinner on the beach for two, and late checkout.</p>
+			<h4>Romance-Guaranteed Honeymoons</h4>
+			<p>Arrive to a warm welcome, including sparkling wine, flowers, and fresh fruit waiting in your room, and indulge with a mimosa-accompanied breakfast in bed when you book a honeymoon package. Start your union off on a relaxed note with a couple&rsquo;s massage and a romantic beachfront dinner for two all while enjoying top-of-the-line amenities and accommodations, crystal clear pools, and stunning beachfront views.</p>
+			<p>Are wedding registries full of towels and kitchen gear boring to you? Visit the Honeymoon Wishes registry page and, instead, give your guests a chance to gift you what you really want &mdash; like an extra excursion, spa treatment, or special meal during your stay.</p>
+			<h4>Timeless Vow Renewals</h4>
+			<p>Recommit to each other in paradise with the True Love vow renewal package. Whether couples have been married for five years or 50, they&rsquo;re sure to feel like honeymooners all over again. Make life easy with an on-site coordinator, and celebrate in style with sparkling wine and cake beneath a beautiful gazebo.</p>
+			<p style="font-size: 12px;">Image Credit: AMResorts</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/07/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Celebrate in Tropical Luxury]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/style.jpg</article_src>
+		<article_caption><![CDATA[Celebrate in Tropical Luxury]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/07/email/style.jpg</email_src>
+		
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="destination-weddings"><![CDATA[destination-weddings]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+			<tag slug="spawellness"><![CDATA[spawellness]]></tag>
+		</tags>
+	</article>
+</root>

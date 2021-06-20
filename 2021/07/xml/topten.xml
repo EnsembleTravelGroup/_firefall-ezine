@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2107" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[July 2021]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Ensemble Travel Group]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[5 New Ways to Wellness]]></title>
+		<teaser><![CDATA[
+			Stay calm, cool and collected.
+		]]></teaser>
+		<lead><![CDATA[
+			Travelers are embracing nature and wellness to achieve a happy, healthy and fulfilling life. Explore wellness trends that offer the perfect prescription for achieving the ultimate <em>Ohm.</em>
+		]]></lead>
+		<body><![CDATA[
+			<p>articleIntro</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+			<title><![CDATA[Blissful Exploration]]></title>
+			<content><![CDATA[
+				<p>Built around adventure and immersive cultural experiences, G Adventures, the pioneering small-group adventure tour operator, has a collection of wellness adventures in various destinations across the globe, including Iceland, Bali, and Costa Rica. The focus is on mindfulness, movement, and nourishment &mdash; with a slower travel pace to help travelers reclaim their balance and reconnect with the world around them. &ldquo;The slower pace we designed was built to stretch travelers &mdash; physically and experientially &mdash; whether they are looking to jumpstart a healthier way of living, or reinforce good habits,&rdquo; explains Ben Perlo, U.S. Managing Director for G Adventures. &ldquo;They&rsquo;re for the traveler who wants to get out and explore an amazing destination, while keeping wellness in mind.&rdquo;</p>
+			]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/article/topten-index-01.jpg]]></src>
+			<position>0</position>
+			<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Forest Bathing]]></title>
+				<content><![CDATA[
+					<p>Shinrin-Yoku is the Japanese term for forest bathing which originated in Japan in the 1980s. Forest bathing refers to soaking in the essence of the forest rather than literally taking a bath in the middle of it. Experience forest bathing while on an extremely slow guided walk and mindful approaches that include yoga and meditation &mdash; all with the intent of elevating your sensory immersion. Studies have revealed the many health benefits of immersing yourself in nature, which include reduced stress hormone production and improved feelings of happiness as well as lower heart rate and blood pressure, a stronger immune system, and accelerated recovery from illness.</p>
+					<p>To experience it close to home, head to the lush forests of British Columbia&rsquo;s Sunshine Coast for a guided forest therapy walk, or to L&rsquo;Apothecary Spa in Sedona for a 90-minute bathing experience with a certified Shinrin-Yoku facilitator.</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Go to Your Happy Place]]></title>
+				<content><![CDATA[
+					<p>The annual World Happiness Report includes a list of the world&rsquo;s happiest countries, and for the fourth year in a row, Finland takes the top spot. In addition to measuring GDP, generosity, social support, healthy life expectancy, and freedom from corruption and to make life choices, the report states that Finland ranks very high on the measures of mutual trust that have helped to protect lives and livelihoods during the pandemic. The country took it upon itself to share its recipe to happiness in the past year with the virtual &ldquo;Rent a Finn&rdquo; tourism initiative, giving people the opportunity to learn about the secrets of Finnish happiness, wherever they are. Travelers had the chance to connect one-on-one with Happiness Guides who shared their knowledge about the country and told their guests how to connect with nature and find their calm &mdash; an excellent way to prepare for your next blissful adventure. Finland was followed by its Nordic neighbor Denmark, then Switzerland and Iceland, with The Netherlands coming in fifth.</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Do Good, Feel Good]]></title>
+				<content><![CDATA[
+					<p>Giving and helping both improve the world and make us feel good about ourselves which is why experiential travel with an emphasis on philanthropy is increasingly popular. And that&rsquo;s a good thing for all of us. Passengers on Crystal Cruises have been participating in the cruise line&rsquo;s &ldquo;You Care, We Care&rdquo; <em>voluntourism</em> program for about ten years now. From playing games, reading, and dancing with the elderly and children at the Granitos de Paz Foundation in Cartagena, Colombia to assisting with the care of animals at the Samui Animal Shelter in Koh Samui, Thailand and planting trees at the Heidmork Natural Reserve in Reykjavik, Iceland, guests have the opportunity to share in Crystal&rsquo;s commitment to &ldquo;bettering the lives of those we meet on our journeys and preserving the beauty of the oceans, rivers and lands in which we travel.&rdquo;</p>
+					<p style="font-size: 12px;">Image Credit: Crystal Cruises</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Life in Balance]]></title>
+				<content><![CDATA[
+					<p>Miraval&rsquo;s goal is to awaken your best self, and all activity is driven by the four pillars of Challenge, Improve, Renew, and Indulge. Miraval Arizona offers healing energy at their desert oasis resort and spa. Situated on 400 acres in the Santa Catalina Mountains in northern Tucson, Miraval Arizona is a destination resort and spa dedicated to helping guests live life in the moment. At their only Caribbean outpost, the Miraval Life in Balance Spa at Park Hyatt St. Kitts, special marine-inspired treatments include Salt Bar with invigorating sea salt; Seaside Serenity, a hydrating marine mask; and Mangrove Goddess, an energizing ritual that includes exfoliation with ginger grasses and fir oil, and a healing massage with essence of red mangrove and eucalyptus. A new Miraval Resort opened in The Berkshires in July 2020.</p>
+					<p style="font-size: 12px;">Image Credit: Miraval</p>
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[5 New Ways to Wellness]]></hero_caption>
+		<hero_credit><![CDATA[Ensemble Travel Group]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/07/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[5 New Ways to Wellness]]></article_caption>
+		<article_credit><![CDATA[Ensemble Travel Group]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/07/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="faithreligious"><![CDATA[faithreligious]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="spawellness"><![CDATA[spawellness]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>

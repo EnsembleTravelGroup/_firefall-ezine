@@ -193,4 +193,49 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2107" id="04">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[July 2021]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<id_article><![CDATA[04]]></id_article>
+		
+		<author><![CDATA[Southwest Adventure Tours]]></author>
+		<id_supplier><![CDATA[swa]]></id_supplier>
+		
+		<title><![CDATA[Utah Has It All.]]></title>
+		<teaser><![CDATA[5 National Parks, 7 National Monuments, Lakes, Mountains, Deserts, and more!]]></teaser>
+		<lead><![CDATA[
+			From epic national parks like Zion and Arches to lesser-known hidden gems, the unique and ever-changing landscape of the southwest is yours to behold with the help of professional tour guides and carefully curated destinations.
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile" style="margin: 60px 0;">
+				<h4>Utah Southwest Adventure Tour </h4>
+				<p>Southwest Adventure Tours highest mission is to provide our guests the opportunity to build lasting memories through creating exceptional experiences that will touch their heart, mind, and soul.  We create tours and adventures that enlivens the senses, instills well-being, and fulfills even the unexpressed wishes and needs of our guests.</p>
+				<iframe width="100%" height="500" src="https://www.youtube.com/embed/6tHIIT2_c8c?rel=0" style="width: 100%; min-height: 500px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</figure>
+			
+			<p>If you are wanting to travel and explore the American Southwest, there&rsquo;s no better way to explore it than by car. If you are not interested in utilizing our professional guide service, let us take our years of experience and provide you with an itinerary that you can use while traveling throughout the Southwest.</p>
+			<p>Run by Deep Desert Expeditions, the Utah Mighty 5 Tour invites you to experience the captivating majesty of Utah&rsquo;s five national parks without sacrificing the finer things in life. If you&rsquo;re the goal-oriented, list-making type, visiting Utah ain&rsquo;t easy. You want to see everything, you really do, but you just can&rsquo;t. Every time you set out to check something off your bucket list, you end up adding three more. With the Mighty 5 Tour, experience awe-inspiring hikes, rich history, and savory dining options provided by our experienced sales representatives. Allow us to help make memories that will last a lifetime with Mighty 5 Tour.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/07/article/advertorial-04-01.jpg">
+			</figure>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/07/hero/advertorial-04.jpg</hero_src>
+		<hero_caption><![CDATA[Utah Has It All.]]></hero_caption>
+		<hero_credit><![CDATA[Southwest Adventure Tours]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/07/article/advertorial-04.jpg
+		</article_src>
+		<article_caption><![CDATA[Utah Has It All.]]></article_caption>
+		<article_credit><![CDATA[Southwest Adventure Tours]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 </root>
